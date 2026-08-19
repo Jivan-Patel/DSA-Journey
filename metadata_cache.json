@@ -8603,5 +8603,143 @@
         "slug": "database"
       }
     ]
+  },
+  "find-greatest-common-divisor-of-array": {
+    "questionId": "2106",
+    "questionFrontendId": "1979",
+    "title": "Find Greatest Common Divisor of Array",
+    "titleSlug": "find-greatest-common-divisor-of-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      },
+      {
+        "name": "Euclidean Algorithm",
+        "slug": "euclidean-algorithm"
+      },
+      {
+        "name": "Greatest Common Divisor",
+        "slug": "greatest-common-divisor"
+      }
+    ]
+  },
+  "count-special-quadruplets": {
+    "questionId": "2122",
+    "questionFrontendId": "1995",
+    "title": "Count Special Quadruplets",
+    "titleSlug": "count-special-quadruplets",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "reverse-prefix-of-word": {
+    "questionId": "2128",
+    "questionFrontendId": "2000",
+    "title": "Reverse Prefix of Word",
+    "titleSlug": "reverse-prefix-of-word",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ]
+  },
+  "count-number-of-pairs-with-absolute-difference-k": {
+    "questionId": "2116",
+    "questionFrontendId": "2006",
+    "title": "Count Number of Pairs With Absolute Difference K",
+    "titleSlug": "count-number-of-pairs-with-absolute-difference-k",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "final-value-of-variable-after-performing-operations": {
+    "questionId": "2137",
+    "questionFrontendId": "2011",
+    "title": "Final Value of Variable After Performing Operations",
+    "titleSlug": "final-value-of-variable-after-performing-operations",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "kth-distinct-string-in-an-array": {
+    "questionId": "2163",
+    "questionFrontendId": "2053",
+    "title": "Kth Distinct String in an Array",
+    "titleSlug": "kth-distinct-string-in-an-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
   }
 }
