@@ -3685,6 +3685,986 @@
       }
     ]
   },
+  "average-selling-price": {
+    "questionId": "1390",
+    "questionFrontendId": "1251",
+    "title": "Average Selling Price",
+    "titleSlug": "average-selling-price",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  },
+  "two-furthest-houses-with-different-colors": {
+    "questionId": "2199",
+    "questionFrontendId": "2078",
+    "title": "Two Furthest Houses With Different Colors",
+    "titleSlug": "two-furthest-houses-with-different-colors",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "find-target-indices-after-sorting-array": {
+    "questionId": "2210",
+    "questionFrontendId": "2089",
+    "title": "Find Target Indices After Sorting Array",
+    "titleSlug": "find-target-indices-after-sorting-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "delete-the-middle-node-of-a-linked-list": {
+    "questionId": "2216",
+    "questionFrontendId": "2095",
+    "title": "Delete the Middle Node of a Linked List",
+    "titleSlug": "delete-the-middle-node-of-a-linked-list",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  },
+  "find-first-palindromic-string-in-the-array": {
+    "questionId": "2231",
+    "questionFrontendId": "2108",
+    "title": "Find First Palindromic String in the Array",
+    "titleSlug": "find-first-palindromic-string-in-the-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "adding-spaces-to-a-string": {
+    "questionId": "2232",
+    "questionFrontendId": "2109",
+    "title": "Adding Spaces to a String",
+    "titleSlug": "adding-spaces-to-a-string",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "maximum-number-of-words-found-in-sentences": {
+    "questionId": "2219",
+    "questionFrontendId": "2114",
+    "title": "Maximum Number of Words Found in Sentences",
+    "titleSlug": "maximum-number-of-words-found-in-sentences",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "a-number-after-a-double-reversal": {
+    "questionId": "2238",
+    "questionFrontendId": "2119",
+    "title": "A Number After a Double Reversal",
+    "titleSlug": "a-number-after-a-double-reversal",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "capitalize-the-title": {
+    "questionId": "2235",
+    "questionFrontendId": "2129",
+    "title": "Capitalize the Title",
+    "titleSlug": "capitalize-the-title",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "maximum-twin-sum-of-a-linked-list": {
+    "questionId": "2236",
+    "questionFrontendId": "2130",
+    "title": "Maximum Twin Sum of a Linked List",
+    "titleSlug": "maximum-twin-sum-of-a-linked-list",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ]
+  },
+  "rearrange-array-elements-by-sign": {
+    "questionId": "2271",
+    "questionFrontendId": "2149",
+    "title": "Rearrange Array Elements by Sign",
+    "titleSlug": "rearrange-array-elements-by-sign",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "partition-array-according-to-given-pivot": {
+    "questionId": "2265",
+    "questionFrontendId": "2161",
+    "title": "Partition Array According to Given Pivot",
+    "titleSlug": "partition-array-according-to-given-pivot",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "count-operations-to-obtain-zero": {
+    "questionId": "2288",
+    "questionFrontendId": "2169",
+    "title": "Count Operations to Obtain Zero",
+    "titleSlug": "count-operations-to-obtain-zero",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "count-equal-and-divisible-pairs-in-an-array": {
+    "questionId": "2277",
+    "questionFrontendId": "2176",
+    "title": "Count Equal and Divisible Pairs in an Array",
+    "titleSlug": "count-equal-and-divisible-pairs-in-an-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "count-integers-with-even-digit-sum": {
+    "questionId": "2298",
+    "questionFrontendId": "2180",
+    "title": "Count Integers With Even Digit Sum",
+    "titleSlug": "count-integers-with-even-digit-sum",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "merge-nodes-in-between-zeros": {
+    "questionId": "2299",
+    "questionFrontendId": "2181",
+    "title": "Merge Nodes in Between Zeros",
+    "titleSlug": "merge-nodes-in-between-zeros",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "counting-words-with-a-given-prefix": {
+    "questionId": "2292",
+    "questionFrontendId": "2185",
+    "title": "Counting Words With a Given Prefix",
+    "titleSlug": "counting-words-with-a-given-prefix",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ]
+  },
+  "divide-array-into-equal-pairs": {
+    "questionId": "2308",
+    "questionFrontendId": "2206",
+    "title": "Divide Array Into Equal Pairs",
+    "titleSlug": "divide-array-into-equal-pairs",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "minimum-bit-flips-to-convert-number": {
+    "questionId": "2323",
+    "questionFrontendId": "2220",
+    "title": "Minimum Bit Flips to Convert Number",
+    "titleSlug": "minimum-bit-flips-to-convert-number",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "find-triangular-sum-of-an-array": {
+    "questionId": "2324",
+    "questionFrontendId": "2221",
+    "title": "Find Triangular Sum of an Array",
+    "titleSlug": "find-triangular-sum-of-an-array",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ]
+  },
+  "add-two-integers": {
+    "questionId": "2383",
+    "questionFrontendId": "2235",
+    "title": "Add Two Integers",
+    "titleSlug": "add-two-integers",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "min-max-game": {
+    "questionId": "2386",
+    "questionFrontendId": "2293",
+    "title": "Min Max Game",
+    "titleSlug": "min-max-game",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "decode-the-message": {
+    "questionId": "2406",
+    "questionFrontendId": "2325",
+    "title": "Decode the Message",
+    "titleSlug": "decode-the-message",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "spiral-matrix-iv": {
+    "questionId": "2411",
+    "questionFrontendId": "2326",
+    "title": "Spiral Matrix IV",
+    "titleSlug": "spiral-matrix-iv",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "number-of-unique-subjects-taught-by-each-teacher": {
+    "questionId": "2495",
+    "questionFrontendId": "2356",
+    "title": "Number of Unique Subjects Taught by Each Teacher",
+    "titleSlug": "number-of-unique-subjects-taught-by-each-teacher",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  },
+  "merge-similar-items": {
+    "questionId": "2447",
+    "questionFrontendId": "2363",
+    "title": "Merge Similar Items",
+    "titleSlug": "merge-similar-items",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ]
+  },
+  "number-of-arithmetic-triplets": {
+    "questionId": "2442",
+    "questionFrontendId": "2367",
+    "title": "Number of Arithmetic Triplets",
+    "titleSlug": "number-of-arithmetic-triplets",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "removing-stars-from-a-string": {
+    "questionId": "2470",
+    "questionFrontendId": "2390",
+    "title": "Removing Stars From a String",
+    "titleSlug": "removing-stars-from-a-string",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "smallest-even-multiple": {
+    "questionId": "2491",
+    "questionFrontendId": "2413",
+    "title": "Smallest Even Multiple",
+    "titleSlug": "smallest-even-multiple",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ]
+  },
+  "sort-the-people": {
+    "questionId": "2502",
+    "questionFrontendId": "2418",
+    "title": "Sort the People",
+    "titleSlug": "sort-the-people",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "number-of-common-factors": {
+    "questionId": "2507",
+    "questionFrontendId": "2427",
+    "title": "Number of Common Factors",
+    "titleSlug": "number-of-common-factors",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      },
+      {
+        "name": "Euclidean Algorithm",
+        "slug": "euclidean-algorithm"
+      },
+      {
+        "name": "Greatest Common Divisor",
+        "slug": "greatest-common-divisor"
+      }
+    ]
+  },
+  "find-the-original-array-of-prefix-xor": {
+    "questionId": "2519",
+    "questionFrontendId": "2433",
+    "title": "Find The Original Array of Prefix Xor",
+    "titleSlug": "find-the-original-array-of-prefix-xor",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "count-number-of-distinct-integers-after-reverse-operations": {
+    "questionId": "2525",
+    "questionFrontendId": "2442",
+    "title": "Count Number of Distinct Integers After Reverse Operations",
+    "titleSlug": "count-number-of-distinct-integers-after-reverse-operations",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "words-within-two-edits-of-dictionary": {
+    "questionId": "2550",
+    "questionFrontendId": "2452",
+    "title": "Words Within Two Edits of Dictionary",
+    "titleSlug": "words-within-two-edits-of-dictionary",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      }
+    ]
+  },
+  "average-value-of-even-numbers-that-are-divisible-by-three": {
+    "questionId": "2542",
+    "questionFrontendId": "2455",
+    "title": "Average Value of Even Numbers That Are Divisible by Three",
+    "titleSlug": "average-value-of-even-numbers-that-are-divisible-by-three",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "maximum-sum-of-distinct-subarrays-with-length-k": {
+    "questionId": "2552",
+    "questionFrontendId": "2461",
+    "title": "Maximum Sum of Distinct Subarrays With Length K",
+    "titleSlug": "maximum-sum-of-distinct-subarrays-with-length-k",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "convert-the-temperature": {
+    "questionId": "2556",
+    "questionFrontendId": "2469",
+    "title": "Convert the Temperature",
+    "titleSlug": "convert-the-temperature",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "number-of-unequal-triplets-in-array": {
+    "questionId": "2566",
+    "questionFrontendId": "2475",
+    "title": "Number of Unequal Triplets in Array",
+    "titleSlug": "number-of-unequal-triplets-in-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "minimum-cuts-to-divide-a-circle": {
+    "questionId": "2575",
+    "questionFrontendId": "2481",
+    "title": "Minimum Cuts to Divide a Circle",
+    "titleSlug": "minimum-cuts-to-divide-a-circle",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Geometry",
+        "slug": "geometry"
+      }
+    ]
+  },
+  "find-the-pivot-integer": {
+    "questionId": "2571",
+    "questionFrontendId": "2485",
+    "title": "Find the Pivot Integer",
+    "titleSlug": "find-the-pivot-integer",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "remove-nodes-from-linked-list": {
+    "questionId": "2573",
+    "questionFrontendId": "2487",
+    "title": "Remove Nodes From Linked List",
+    "titleSlug": "remove-nodes-from-linked-list",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Recursion",
+        "slug": "recursion"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  },
+  "circular-sentence": {
+    "questionId": "2580",
+    "questionFrontendId": "2490",
+    "title": "Circular Sentence",
+    "titleSlug": "circular-sentence",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "count-the-digits-that-divide-a-number": {
+    "questionId": "2608",
+    "questionFrontendId": "2520",
+    "title": "Count the Digits That Divide a Number",
+    "titleSlug": "count-the-digits-that-divide-a-number",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "categorize-box-according-to-criteria": {
+    "questionId": "2619",
+    "questionFrontendId": "2525",
+    "title": "Categorize Box According to Criteria",
+    "titleSlug": "categorize-box-according-to-criteria",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "maximum-count-of-positive-integer-and-negative-integer": {
+    "questionId": "2614",
+    "questionFrontendId": "2529",
+    "title": "Maximum Count of Positive Integer and Negative Integer",
+    "titleSlug": "maximum-count-of-positive-integer-and-negative-integer",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "difference-between-element-sum-and-digit-sum-of-an-array": {
+    "questionId": "2624",
+    "questionFrontendId": "2535",
+    "title": "Difference Between Element Sum and Digit Sum of an Array",
+    "titleSlug": "difference-between-element-sum-and-digit-sum-of-an-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "minimum-common-value": {
+    "questionId": "2634",
+    "questionFrontendId": "2540",
+    "title": "Minimum Common Value",
+    "titleSlug": "minimum-common-value",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  },
+  "alternating-digit-sum": {
+    "questionId": "2630",
+    "questionFrontendId": "2544",
+    "title": "Alternating Digit Sum",
+    "titleSlug": "alternating-digit-sum",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "sort-the-students-by-their-kth-score": {
+    "questionId": "2631",
+    "questionFrontendId": "2545",
+    "title": "Sort the Students by Their Kth Score",
+    "titleSlug": "sort-the-students-by-their-kth-score",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "separate-the-digits-in-an-array": {
+    "questionId": "2639",
+    "questionFrontendId": "2553",
+    "title": "Separate the Digits in an Array",
+    "titleSlug": "separate-the-digits-in-an-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "maximum-difference-by-remapping-a-digit": {
+    "questionId": "2704",
+    "questionFrontendId": "2566",
+    "title": "Maximum Difference by Remapping a Digit",
+    "titleSlug": "maximum-difference-by-remapping-a-digit",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "left-and-right-sum-differences": {
+    "questionId": "2714",
+    "questionFrontendId": "2574",
+    "title": "Left and Right Sum Differences",
+    "titleSlug": "left-and-right-sum-differences",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
   "rearrange-array-to-maximize-prefix-score": {
     "questionId": "2655",
     "questionFrontendId": "2587",
@@ -3895,6 +4875,3732 @@
       {
         "name": "Simulation",
         "slug": "simulation"
+      }
+    ]
+  },
+  "find-the-maximum-achievable-number": {
+    "questionId": "2812",
+    "questionFrontendId": "2769",
+    "title": "Find the Maximum Achievable Number",
+    "titleSlug": "find-the-maximum-achievable-number",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "number-of-employees-who-met-the-target": {
+    "questionId": "2876",
+    "questionFrontendId": "2798",
+    "title": "Number of Employees Who Met the Target",
+    "titleSlug": "number-of-employees-who-met-the-target",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "insert-greatest-common-divisors-in-linked-list": {
+    "questionId": "2903",
+    "questionFrontendId": "2807",
+    "title": "Insert Greatest Common Divisors in Linked List",
+    "titleSlug": "insert-greatest-common-divisors-in-linked-list",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ]
+  },
+  "double-a-number-represented-as-a-linked-list": {
+    "questionId": "2871",
+    "questionFrontendId": "2816",
+    "title": "Double a Number Represented as a Linked List",
+    "titleSlug": "double-a-number-represented-as-a-linked-list",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ]
+  },
+  "count-pairs-whose-sum-is-less-than-target": {
+    "questionId": "2917",
+    "questionFrontendId": "2824",
+    "title": "Count Pairs Whose Sum is Less than Target",
+    "titleSlug": "count-pairs-whose-sum-is-less-than-target",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "check-if-a-string-is-an-acronym-of-words": {
+    "questionId": "2977",
+    "questionFrontendId": "2828",
+    "title": "Check if a String Is an Acronym of Words",
+    "titleSlug": "check-if-a-string-is-an-acronym-of-words",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "furthest-point-from-origin": {
+    "questionId": "3019",
+    "questionFrontendId": "2833",
+    "title": "Furthest Point From Origin",
+    "titleSlug": "furthest-point-from-origin",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "check-if-strings-can-be-made-equal-with-operations-i": {
+    "questionId": "2999",
+    "questionFrontendId": "2839",
+    "title": "Check if Strings Can be Made Equal With Operations I",
+    "titleSlug": "check-if-strings-can-be-made-equal-with-operations-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "check-if-strings-can-be-made-equal-with-operations-ii": {
+    "questionId": "2978",
+    "questionFrontendId": "2840",
+    "title": "Check if Strings Can be Made Equal With Operations II",
+    "titleSlug": "check-if-strings-can-be-made-equal-with-operations-ii",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "count-symmetric-integers": {
+    "questionId": "2998",
+    "questionFrontendId": "2843",
+    "title": "  Count Symmetric Integers",
+    "titleSlug": "count-symmetric-integers",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "sum-of-values-at-indices-with-k-set-bits": {
+    "questionId": "3093",
+    "questionFrontendId": "2859",
+    "title": "Sum of Values at Indices With K Set Bits",
+    "titleSlug": "sum-of-values-at-indices-with-k-set-bits",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "maximum-odd-binary-number": {
+    "questionId": "3055",
+    "questionFrontendId": "2864",
+    "title": "Maximum Odd Binary Number",
+    "titleSlug": "maximum-odd-binary-number",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "divisible-and-non-divisible-sums-difference": {
+    "questionId": "3172",
+    "questionFrontendId": "2894",
+    "title": "Divisible and Non-divisible Sums Difference",
+    "titleSlug": "divisible-and-non-divisible-sums-difference",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "find-words-containing-character": {
+    "questionId": "3194",
+    "questionFrontendId": "2942",
+    "title": "Find Words Containing Character",
+    "titleSlug": "find-words-containing-character",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "find-the-peaks": {
+    "questionId": "3221",
+    "questionFrontendId": "2951",
+    "title": "Find the Peaks",
+    "titleSlug": "find-the-peaks",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "length-of-longest-subarray-with-at-most-k-frequency": {
+    "questionId": "3225",
+    "questionFrontendId": "2958",
+    "title": "Length of Longest Subarray With at Most K Frequency",
+    "titleSlug": "length-of-longest-subarray-with-at-most-k-frequency",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "find-missing-and-repeated-values": {
+    "questionId": "3227",
+    "questionFrontendId": "2965",
+    "title": "Find Missing and Repeated Values",
+    "titleSlug": "find-missing-and-repeated-values",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "minimum-number-game": {
+    "questionId": "3226",
+    "questionFrontendId": "2974",
+    "title": "Minimum Number Game",
+    "titleSlug": "minimum-number-game",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "smallest-missing-integer-greater-than-sequential-prefix-sum": {
+    "questionId": "3236",
+    "questionFrontendId": "2996",
+    "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+    "titleSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "count-elements-with-maximum-frequency": {
+    "questionId": "3242",
+    "questionFrontendId": "3005",
+    "title": "Count Elements With Maximum Frequency",
+    "titleSlug": "count-elements-with-maximum-frequency",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "minimum-number-of-pushes-to-type-word-i": {
+    "questionId": "3275",
+    "questionFrontendId": "3014",
+    "title": "Minimum Number of Pushes to Type Word I",
+    "titleSlug": "minimum-number-of-pushes-to-type-word-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "minimum-number-of-pushes-to-type-word-ii": {
+    "questionId": "3276",
+    "questionFrontendId": "3016",
+    "title": "Minimum Number of Pushes to Type Word II",
+    "titleSlug": "minimum-number-of-pushes-to-type-word-ii",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "number-of-changing-keys": {
+    "questionId": "3312",
+    "questionFrontendId": "3019",
+    "title": "Number of Changing Keys",
+    "titleSlug": "number-of-changing-keys",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "type-of-triangle": {
+    "questionId": "3321",
+    "questionFrontendId": "3024",
+    "title": "Type of Triangle",
+    "titleSlug": "type-of-triangle",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Polygons",
+        "slug": "polygons"
+      }
+    ]
+  },
+  "count-prefix-and-suffix-pairs-i": {
+    "questionId": "3309",
+    "questionFrontendId": "3042",
+    "title": "Count Prefix and Suffix Pairs I",
+    "titleSlug": "count-prefix-and-suffix-pairs-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Trie",
+        "slug": "trie"
+      },
+      {
+        "name": "Rolling Hash",
+        "slug": "rolling-hash"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      },
+      {
+        "name": "Hash Function",
+        "slug": "hash-function"
+      }
+    ]
+  },
+  "split-the-array": {
+    "questionId": "3324",
+    "questionFrontendId": "3046",
+    "title": "Split the Array",
+    "titleSlug": "split-the-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "minimum-operations-to-exceed-threshold-value-i": {
+    "questionId": "3331",
+    "questionFrontendId": "3065",
+    "title": "Minimum Operations to Exceed Threshold Value I",
+    "titleSlug": "minimum-operations-to-exceed-threshold-value-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "find-the-sum-of-encrypted-integers": {
+    "questionId": "3367",
+    "questionFrontendId": "3079",
+    "title": "Find the Sum of Encrypted Integers",
+    "titleSlug": "find-the-sum-of-encrypted-integers",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "maximum-length-substring-with-two-occurrences": {
+    "questionId": "3349",
+    "questionFrontendId": "3090",
+    "title": "Maximum Length Substring With Two Occurrences",
+    "titleSlug": "maximum-length-substring-with-two-occurrences",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "harshad-number": {
+    "questionId": "3371",
+    "questionFrontendId": "3099",
+    "title": "Harshad Number",
+    "titleSlug": "harshad-number",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "score-of-a-string": {
+    "questionId": "3379",
+    "questionFrontendId": "3110",
+    "title": "Score of a String",
+    "titleSlug": "score-of-a-string",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "find-the-integer-added-to-array-i": {
+    "questionId": "3397",
+    "questionFrontendId": "3131",
+    "title": "Find the Integer Added to Array I",
+    "titleSlug": "find-the-integer-added-to-array-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "valid-word": {
+    "questionId": "3396",
+    "questionFrontendId": "3136",
+    "title": "Valid Word",
+    "titleSlug": "valid-word",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "permutation-difference-between-two-strings": {
+    "questionId": "3412",
+    "questionFrontendId": "3146",
+    "title": "Permutation Difference between Two Strings",
+    "titleSlug": "permutation-difference-between-two-strings",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "find-the-number-of-good-pairs-i": {
+    "questionId": "3446",
+    "questionFrontendId": "3162",
+    "title": "Find the Number of Good Pairs I",
+    "titleSlug": "find-the-number-of-good-pairs-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
+  "string-compression-iii": {
+    "questionId": "3451",
+    "questionFrontendId": "3163",
+    "title": "String Compression III",
+    "titleSlug": "string-compression-iii",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "clear-digits": {
+    "questionId": "3447",
+    "questionFrontendId": "3174",
+    "title": "Clear Digits",
+    "titleSlug": "clear-digits",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "find-minimum-operations-to-make-all-elements-divisible-by-three": {
+    "questionId": "3476",
+    "questionFrontendId": "3190",
+    "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+    "titleSlug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "minimum-average-of-smallest-and-largest-elements": {
+    "questionId": "3471",
+    "questionFrontendId": "3194",
+    "title": "Minimum Average of Smallest and Largest Elements",
+    "titleSlug": "minimum-average-of-smallest-and-largest-elements",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "alternating-groups-i": {
+    "questionId": "3463",
+    "questionFrontendId": "3206",
+    "title": "Alternating Groups I",
+    "titleSlug": "alternating-groups-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "delete-nodes-from-linked-list-present-in-array": {
+    "questionId": "3501",
+    "questionFrontendId": "3217",
+    "title": "Delete Nodes From Linked List Present in Array",
+    "titleSlug": "delete-nodes-from-linked-list-present-in-array",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ]
+  },
+  "find-the-winning-player-in-coin-game": {
+    "questionId": "3511",
+    "questionFrontendId": "3222",
+    "title": "Find the Winning Player in Coin Game",
+    "titleSlug": "find-the-winning-player-in-coin-game",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ]
+  },
+  "vowels-game-in-a-string": {
+    "questionId": "3462",
+    "questionFrontendId": "3227",
+    "title": "Vowels Game in a String",
+    "titleSlug": "vowels-game-in-a-string",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ]
+  },
+  "find-if-digit-game-can-be-won": {
+    "questionId": "3515",
+    "questionFrontendId": "3232",
+    "title": "Find if Digit Game Can Be Won",
+    "titleSlug": "find-if-digit-game-can-be-won",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "count-substrings-that-satisfy-k-constraint-i": {
+    "questionId": "3543",
+    "questionFrontendId": "3258",
+    "title": "Count Substrings That Satisfy K-Constraint I",
+    "titleSlug": "count-substrings-that-satisfy-k-constraint-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "final-array-state-after-k-multiplication-operations-i": {
+    "questionId": "3555",
+    "questionFrontendId": "3264",
+    "title": "Final Array State After K Multiplication Operations I",
+    "titleSlug": "final-array-state-after-k-multiplication-operations-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "find-the-key-of-the-numbers": {
+    "questionId": "3568",
+    "questionFrontendId": "3270",
+    "title": "Find the Key of the Numbers",
+    "titleSlug": "find-the-key-of-the-numbers",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "convert-date-to-binary": {
+    "questionId": "3567",
+    "questionFrontendId": "3280",
+    "title": "Convert Date to Binary",
+    "titleSlug": "convert-date-to-binary",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "the-two-sneaky-numbers-of-digitville": {
+    "questionId": "3581",
+    "questionFrontendId": "3289",
+    "title": "The Two Sneaky Numbers of Digitville",
+    "titleSlug": "the-two-sneaky-numbers-of-digitville",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "minimum-element-after-replacement-with-digit-sum": {
+    "questionId": "3606",
+    "questionFrontendId": "3300",
+    "title": "Minimum Element After Replacement With Digit Sum",
+    "titleSlug": "minimum-element-after-replacement-with-digit-sum",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "construct-the-minimum-bitwise-array-i": {
+    "questionId": "3605",
+    "questionFrontendId": "3314",
+    "title": "Construct the Minimum Bitwise Array I",
+    "titleSlug": "construct-the-minimum-bitwise-array-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "check-balanced-string": {
+    "questionId": "3636",
+    "questionFrontendId": "3340",
+    "title": "Check Balanced String",
+    "titleSlug": "check-balanced-string",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "smallest-divisible-digit-product-i": {
+    "questionId": "3626",
+    "questionFrontendId": "3345",
+    "title": "Smallest Divisible Digit Product I",
+    "titleSlug": "smallest-divisible-digit-product-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "check-if-digits-are-equal-in-string-after-operations-i": {
+    "questionId": "3768",
+    "questionFrontendId": "3461",
+    "title": "Check If Digits Are Equal in String After Operations I",
+    "titleSlug": "check-if-digits-are-equal-in-string-after-operations-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "name": "Combinatorics",
+        "slug": "combinatorics"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ]
+  },
+  "transform-array-by-parity": {
+    "questionId": "3778",
+    "questionFrontendId": "3467",
+    "title": "Transform Array by Parity",
+    "titleSlug": "transform-array-by-parity",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "find-the-largest-almost-missing-integer": {
+    "questionId": "3705",
+    "questionFrontendId": "3471",
+    "title": "Find the Largest Almost Missing Integer",
+    "titleSlug": "find-the-largest-almost-missing-integer",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
+  "fruits-into-baskets-ii": {
+    "questionId": "3790",
+    "questionFrontendId": "3477",
+    "title": "Fruits Into Baskets II",
+    "titleSlug": "fruits-into-baskets-ii",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Segment Tree",
+        "slug": "segment-tree"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ]
+  },
+  "reverse-degree-of-a-string": {
+    "questionId": "3811",
+    "questionFrontendId": "3498",
+    "title": "Reverse Degree of a String",
+    "titleSlug": "reverse-degree-of-a-string",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "minimum-pair-removal-to-sort-array-i": {
+    "questionId": "3773",
+    "questionFrontendId": "3507",
+    "title": "Minimum Pair Removal to Sort Array I",
+    "titleSlug": "minimum-pair-removal-to-sort-array-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "name": "Doubly-Linked List",
+        "slug": "doubly-linked-list"
+      },
+      {
+        "name": "Ordered Set",
+        "slug": "ordered-set"
+      }
+    ]
+  },
+  "minimum-operations-to-make-array-sum-divisible-by-k": {
+    "questionId": "3846",
+    "questionFrontendId": "3512",
+    "title": "Minimum Operations to Make Array Sum Divisible by K",
+    "titleSlug": "minimum-operations-to-make-array-sum-divisible-by-k",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "find-closest-person": {
+    "questionId": "3830",
+    "questionFrontendId": "3516",
+    "title": "Find Closest Person",
+    "titleSlug": "find-closest-person",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "smallest-palindromic-rearrangement-i": {
+    "questionId": "3812",
+    "questionFrontendId": "3517",
+    "title": "Smallest Palindromic Rearrangement I",
+    "titleSlug": "smallest-palindromic-rearrangement-i",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ]
+  },
+  "find-the-most-common-response": {
+    "questionId": "3707",
+    "questionFrontendId": "3527",
+    "title": "Find the Most Common Response",
+    "titleSlug": "find-the-most-common-response",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "find-most-frequent-vowel-and-consonant": {
+    "questionId": "3872",
+    "questionFrontendId": "3541",
+    "title": "Find Most Frequent Vowel and Consonant",
+    "titleSlug": "find-most-frequent-vowel-and-consonant",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "smallest-index-with-digit-sum-equal-to-index": {
+    "questionId": "3869",
+    "questionFrontendId": "3550",
+    "title": "Smallest Index With Digit Sum Equal to Index",
+    "titleSlug": "smallest-index-with-digit-sum-equal-to-index",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "process-string-with-special-operations-i": {
+    "questionId": "3931",
+    "questionFrontendId": "3612",
+    "title": "Process String with Special Operations I",
+    "titleSlug": "process-string-with-special-operations-i",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "process-string-with-special-operations-ii": {
+    "questionId": "3939",
+    "questionFrontendId": "3614",
+    "title": "Process String with Special Operations II",
+    "titleSlug": "process-string-with-special-operations-ii",
+    "difficulty": "Hard",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "check-divisibility-by-digit-sum-and-product": {
+    "questionId": "3918",
+    "questionFrontendId": "3622",
+    "title": "Check Divisibility by Digit Sum and Product",
+    "titleSlug": "check-divisibility-by-digit-sum-and-product",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "gcd-of-odd-and-even-sums": {
+    "questionId": "3995",
+    "questionFrontendId": "3658",
+    "title": "GCD of Odd and Even Sums",
+    "titleSlug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ]
+  },
+  "restore-finishing-order": {
+    "questionId": "4008",
+    "questionFrontendId": "3668",
+    "title": "Restore Finishing Order",
+    "titleSlug": "restore-finishing-order",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
+  "maximum-total-subarray-value-i": {
+    "questionId": "4005",
+    "questionFrontendId": "3689",
+    "title": "Maximum Total Subarray Value I",
+    "titleSlug": "maximum-total-subarray-value-i",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "compute-alternating-sum": {
+    "questionId": "4058",
+    "questionFrontendId": "3701",
+    "title": "Compute Alternating Sum",
+    "titleSlug": "compute-alternating-sum",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "find-missing-elements": {
+    "questionId": "4107",
+    "questionFrontendId": "3731",
+    "title": "Find Missing Elements",
+    "titleSlug": "find-missing-elements",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "minimum-distance-between-three-equal-elements-i": {
+    "questionId": "4115",
+    "questionFrontendId": "3740",
+    "title": "Minimum Distance Between Three Equal Elements I",
+    "titleSlug": "minimum-distance-between-three-equal-elements-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
+  "minimum-distance-between-three-equal-elements-ii": {
+    "questionId": "4119",
+    "questionFrontendId": "3741",
+    "title": "Minimum Distance Between Three Equal Elements II",
+    "titleSlug": "minimum-distance-between-three-equal-elements-ii",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      }
+    ]
+  },
+  "minimum-string-length-after-balanced-removals": {
+    "questionId": "4090",
+    "questionFrontendId": "3746",
+    "title": "Minimum String Length After Balanced Removals",
+    "titleSlug": "minimum-string-length-after-balanced-removals",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "minimum-absolute-distance-between-mirror-pairs": {
+    "questionId": "4139",
+    "questionFrontendId": "3761",
+    "title": "Minimum Absolute Distance Between Mirror Pairs",
+    "titleSlug": "minimum-absolute-distance-between-mirror-pairs",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "absolute-difference-between-maximum-and-minimum-k-elements": {
+    "questionId": "4158",
+    "questionFrontendId": "3774",
+    "title": "Absolute Difference Between Maximum and Minimum K Elements",
+    "titleSlug": "absolute-difference-between-maximum-and-minimum-k-elements",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "mirror-distance-of-an-integer": {
+    "questionId": "4168",
+    "questionFrontendId": "3783",
+    "title": "Mirror Distance of an Integer",
+    "titleSlug": "mirror-distance-of-an-integer",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "reverse-string-prefix": {
+    "questionId": "4177",
+    "questionFrontendId": "3794",
+    "title": "Reverse String Prefix",
+    "titleSlug": "reverse-string-prefix",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "vowel-consonant-score": {
+    "questionId": "4178",
+    "questionFrontendId": "3813",
+    "title": "Vowel-Consonant Score",
+    "titleSlug": "vowel-consonant-score",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "reverse-letters-then-special-characters-in-a-string": {
+    "questionId": "4200",
+    "questionFrontendId": "3823",
+    "title": "Reverse Letters Then Special Characters in a String",
+    "titleSlug": "reverse-letters-then-special-characters-in-a-string",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "final-element-after-subarray-deletions": {
+    "questionId": "4122",
+    "questionFrontendId": "3828",
+    "title": "Final Element After Subarray Deletions",
+    "titleSlug": "final-element-after-subarray-deletions",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Brainteaser",
+        "slug": "brainteaser"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ]
+  },
+  "count-dominant-indices": {
+    "questionId": "4214",
+    "questionFrontendId": "3833",
+    "title": "Count Dominant Indices",
+    "titleSlug": "count-dominant-indices",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "weighted-word-mapping": {
+    "questionId": "4216",
+    "questionFrontendId": "3838",
+    "title": "Weighted Word Mapping",
+    "titleSlug": "weighted-word-mapping",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "toggle-light-bulbs": {
+    "questionId": "4212",
+    "questionFrontendId": "3842",
+    "title": "Toggle Light Bulbs",
+    "titleSlug": "toggle-light-bulbs",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "trim-trailing-vowels": {
+    "questionId": "4229",
+    "questionFrontendId": "3856",
+    "title": "Trim Trailing Vowels",
+    "titleSlug": "trim-trailing-vowels",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "minimum-capacity-box": {
+    "questionId": "4247",
+    "questionFrontendId": "3861",
+    "title": "Minimum Capacity Box",
+    "titleSlug": "minimum-capacity-box",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "first-unique-even-element": {
+    "questionId": "4252",
+    "questionFrontendId": "3866",
+    "title": "First Unique Even Element",
+    "titleSlug": "first-unique-even-element",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "sum-of-gcd-of-formed-pairs": {
+    "questionId": "4242",
+    "questionFrontendId": "3867",
+    "title": "Sum of GCD of Formed Pairs",
+    "titleSlug": "sum-of-gcd-of-formed-pairs",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      }
+    ]
+  },
+  "minimum-cost-to-equalize-arrays-using-swaps": {
+    "questionId": "4253",
+    "questionFrontendId": "3868",
+    "title": "Minimum Cost to Equalize Arrays Using Swaps",
+    "titleSlug": "minimum-cost-to-equalize-arrays-using-swaps",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "count-fancy-numbers-in-a-range": {
+    "questionId": "4159",
+    "questionFrontendId": "3869",
+    "title": "Count Fancy Numbers in a Range",
+    "titleSlug": "count-fancy-numbers-in-a-range",
+    "difficulty": "Hard",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      }
+    ]
+  },
+  "count-commas-in-range": {
+    "questionId": "4245",
+    "questionFrontendId": "3870",
+    "title": "Count Commas in Range",
+    "titleSlug": "count-commas-in-range",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "count-commas-in-range-ii": {
+    "questionId": "4248",
+    "questionFrontendId": "3871",
+    "title": "Count Commas in Range II",
+    "titleSlug": "count-commas-in-range-ii",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "minimum-absolute-difference-between-two-values": {
+    "questionId": "4255",
+    "questionFrontendId": "3880",
+    "title": "Minimum Absolute Difference Between Two Values",
+    "titleSlug": "minimum-absolute-difference-between-two-values",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "first-matching-character-from-both-ends": {
+    "questionId": "4264",
+    "questionFrontendId": "3884",
+    "title": "First Matching Character From Both Ends",
+    "titleSlug": "first-matching-character-from-both-ends",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "traffic-signal-color": {
+    "questionId": "4275",
+    "questionFrontendId": "3894",
+    "title": "Traffic Signal Color",
+    "titleSlug": "traffic-signal-color",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "count-digit-appearances": {
+    "questionId": "4280",
+    "questionFrontendId": "3895",
+    "title": "Count Digit Appearances",
+    "titleSlug": "count-digit-appearances",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "find-the-degree-of-each-vertex": {
+    "questionId": "4271",
+    "questionFrontendId": "3898",
+    "title": "Find the Degree of Each Vertex",
+    "titleSlug": "find-the-degree-of-each-vertex",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "smallest-stable-index-i": {
+    "questionId": "4284",
+    "questionFrontendId": "3903",
+    "title": "Smallest Stable Index I",
+    "titleSlug": "smallest-stable-index-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "smallest-stable-index-ii": {
+    "questionId": "4285",
+    "questionFrontendId": "3904",
+    "title": "Smallest Stable Index II",
+    "titleSlug": "smallest-stable-index-ii",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "valid-digit-number": {
+    "questionId": "4286",
+    "questionFrontendId": "3908",
+    "title": "Valid Digit Number",
+    "titleSlug": "valid-digit-number",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "valid-elements-in-an-array": {
+    "questionId": "4290",
+    "questionFrontendId": "3912",
+    "title": "Valid Elements in an Array",
+    "titleSlug": "valid-elements-in-an-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "count-indices-with-opposite-parity": {
+    "questionId": "4295",
+    "questionFrontendId": "3917",
+    "title": "Count Indices With Opposite Parity",
+    "titleSlug": "count-indices-with-opposite-parity",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "score-validator": {
+    "questionId": "4281",
+    "questionFrontendId": "3921",
+    "title": "Score Validator",
+    "titleSlug": "score-validator",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "concatenate-array-with-reverse": {
+    "questionId": "4299",
+    "questionFrontendId": "3925",
+    "title": "Concatenate Array With Reverse",
+    "titleSlug": "concatenate-array-with-reverse",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "check-adjacent-digit-differences": {
+    "questionId": "4305",
+    "questionFrontendId": "3931",
+    "title": "Check Adjacent Digit Differences",
+    "titleSlug": "check-adjacent-digit-differences",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "minimum-swaps-to-move-zeros-to-end": {
+    "questionId": "4316",
+    "questionFrontendId": "3936",
+    "title": "Minimum Swaps to Move Zeros to End",
+    "titleSlug": "minimum-swaps-to-move-zeros-to-end",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  },
+  "limit-occurrences-in-sorted-array": {
+    "questionId": "4312",
+    "questionFrontendId": "3940",
+    "title": "Limit Occurrences in Sorted Array",
+    "titleSlug": "limit-occurrences-in-sorted-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  },
+  "password-strength": {
+    "questionId": "4313",
+    "questionFrontendId": "3941",
+    "title": "Password Strength",
+    "titleSlug": "password-strength",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "digit-frequency-score": {
+    "questionId": "4321",
+    "questionFrontendId": "3945",
+    "title": "Digit Frequency Score",
+    "titleSlug": "digit-frequency-score",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "exactly-one-consecutive-set-bits-pair": {
+    "questionId": "4307",
+    "questionFrontendId": "3950",
+    "title": "Exactly One Consecutive Set Bits Pair",
+    "titleSlug": "exactly-one-consecutive-set-bits-pair",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "sum-of-compatible-numbers-in-range-i": {
+    "questionId": "4319",
+    "questionFrontendId": "3954",
+    "title": "Sum of Compatible Numbers in Range I",
+    "titleSlug": "sum-of-compatible-numbers-in-range-i",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "check-good-integer": {
+    "questionId": "4332",
+    "questionFrontendId": "3959",
+    "title": "Check Good Integer",
+    "titleSlug": "check-good-integer",
+    "difficulty": "Easy",
+    "topicTags": []
+  },
+  "unique-middle-element": {
+    "questionId": "4354",
+    "questionFrontendId": "3978",
+    "title": "Unique Middle Element",
+    "titleSlug": "unique-middle-element",
+    "difficulty": "Easy",
+    "topicTags": []
+  },
+  "sum-of-integers-with-maximum-digit-range": {
+    "questionId": "4356",
+    "questionFrontendId": "3982",
+    "title": "Sum of Integers with Maximum Digit Range",
+    "titleSlug": "sum-of-integers-with-maximum-digit-range",
+    "difficulty": "Easy",
+    "topicTags": []
+  },
+  "subtract-the-product-and-sum-of-digits-of-an-integer": {
+    "questionId": "1406",
+    "questionFrontendId": "1281",
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "titleSlug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "group-the-people-given-the-group-size-they-belong-to": {
+    "questionId": "1407",
+    "questionFrontendId": "1282",
+    "title": "Group the People Given the Group Size They Belong To",
+    "titleSlug": "group-the-people-given-the-group-size-they-belong-to",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "convert-binary-number-in-a-linked-list-to-integer": {
+    "questionId": "1411",
+    "questionFrontendId": "1290",
+    "title": "Convert Binary Number in a Linked List to Integer",
+    "titleSlug": "convert-binary-number-in-a-linked-list-to-integer",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "sequential-digits": {
+    "questionId": "1212",
+    "questionFrontendId": "1291",
+    "title": "Sequential Digits",
+    "titleSlug": "sequential-digits",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "find-numbers-with-even-number-of-digits": {
+    "questionId": "1421",
+    "questionFrontendId": "1295",
+    "title": "Find Numbers with Even Number of Digits",
+    "titleSlug": "find-numbers-with-even-number-of-digits",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "decompress-run-length-encoded-list": {
+    "questionId": "1241",
+    "questionFrontendId": "1313",
+    "title": "Decompress Run-Length Encoded List",
+    "titleSlug": "decompress-run-length-encoded-list",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "maximum-69-number": {
+    "questionId": "1448",
+    "questionFrontendId": "1323",
+    "title": "Maximum 69 Number",
+    "titleSlug": "maximum-69-number",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "rank-transform-of-an-array": {
+    "questionId": "1256",
+    "questionFrontendId": "1331",
+    "title": "Rank Transform of an Array",
+    "titleSlug": "rank-transform-of-an-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "number-of-steps-to-reduce-a-number-to-zero": {
+    "questionId": "1444",
+    "questionFrontendId": "1342",
+    "title": "Number of Steps to Reduce a Number to Zero",
+    "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold": {
+    "questionId": "1445",
+    "questionFrontendId": "1343",
+    "title": "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "titleSlug": "number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "angle-between-hands-of-a-clock": {
+    "questionId": "1446",
+    "questionFrontendId": "1344",
+    "title": "Angle Between Hands of a Clock",
+    "titleSlug": "angle-between-hands-of-a-clock",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "check-if-n-and-its-double-exist": {
+    "questionId": "1468",
+    "questionFrontendId": "1346",
+    "title": "Check If N and Its Double Exist",
+    "titleSlug": "check-if-n-and-its-double-exist",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "count-negative-numbers-in-a-sorted-matrix": {
+    "questionId": "1476",
+    "questionFrontendId": "1351",
+    "title": "Count Negative Numbers in a Sorted Matrix",
+    "titleSlug": "count-negative-numbers-in-a-sorted-matrix",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "how-many-numbers-are-smaller-than-the-current-number": {
+    "questionId": "1482",
+    "questionFrontendId": "1365",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "titleSlug": "how-many-numbers-are-smaller-than-the-current-number",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Counting Sort",
+        "slug": "counting-sort"
+      }
+    ]
+  },
+  "replace-employee-id-with-the-unique-identifier": {
+    "questionId": "1509",
+    "questionFrontendId": "1378",
+    "title": "Replace Employee ID With The Unique Identifier",
+    "titleSlug": "replace-employee-id-with-the-unique-identifier",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  },
+  "find-lucky-integer-in-an-array": {
+    "questionId": "1510",
+    "questionFrontendId": "1394",
+    "title": "Find Lucky Integer in an Array",
+    "titleSlug": "find-lucky-integer-in-an-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "number-of-steps-to-reduce-a-number-in-binary-representation-to-one": {
+    "questionId": "1520",
+    "questionFrontendId": "1404",
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "titleSlug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "string-matching-in-an-array": {
+    "questionId": "1524",
+    "questionFrontendId": "1408",
+    "title": "String Matching in an Array",
+    "titleSlug": "string-matching-in-an-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ]
+  },
+  "maximum-points-you-can-obtain-from-cards": {
+    "questionId": "1538",
+    "questionFrontendId": "1423",
+    "title": "Maximum Points You Can Obtain from Cards",
+    "titleSlug": "maximum-points-you-can-obtain-from-cards",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "kids-with-the-greatest-number-of-candies": {
+    "questionId": "1528",
+    "questionFrontendId": "1431",
+    "title": "Kids With the Greatest Number of Candies",
+    "titleSlug": "kids-with-the-greatest-number-of-candies",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "consecutive-characters": {
+    "questionId": "1542",
+    "questionFrontendId": "1446",
+    "title": "Consecutive Characters",
+    "titleSlug": "consecutive-characters",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence": {
+    "questionId": "1566",
+    "questionFrontendId": "1455",
+    "title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+    "titleSlug": "check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "String Matching",
+        "slug": "string-matching"
+      }
+    ]
+  },
+  "maximum-number-of-vowels-in-a-substring-of-given-length": {
+    "questionId": "1567",
+    "questionFrontendId": "1456",
+    "title": "Maximum Number of Vowels in a Substring of Given Length",
+    "titleSlug": "maximum-number-of-vowels-in-a-substring-of-given-length",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "maximum-product-of-two-elements-in-an-array": {
+    "questionId": "1574",
+    "questionFrontendId": "1464",
+    "title": "Maximum Product of Two Elements in an Array",
+    "titleSlug": "maximum-product-of-two-elements-in-an-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Heap (Priority Queue)",
+        "slug": "heap-priority-queue"
+      }
+    ]
+  },
+  "shuffle-the-array": {
+    "questionId": "1580",
+    "questionFrontendId": "1470",
+    "title": "Shuffle the Array",
+    "titleSlug": "shuffle-the-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "final-prices-with-a-special-discount-in-a-shop": {
+    "questionId": "1570",
+    "questionFrontendId": "1475",
+    "title": "Final Prices With a Special Discount in a Shop",
+    "titleSlug": "final-prices-with-a-special-discount-in-a-shop",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Monotonic Stack",
+        "slug": "monotonic-stack"
+      }
+    ]
+  },
+  "running-sum-of-1d-array": {
+    "questionId": "1603",
+    "questionFrontendId": "1480",
+    "title": "Running Sum of 1d Array",
+    "titleSlug": "running-sum-of-1d-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "xor-operation-in-an-array": {
+    "questionId": "1610",
+    "questionFrontendId": "1486",
+    "title": "XOR Operation in an Array",
+    "titleSlug": "xor-operation-in-an-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "the-kth-factor-of-n": {
+    "questionId": "1585",
+    "questionFrontendId": "1492",
+    "title": "The kth Factor of n",
+    "titleSlug": "the-kth-factor-of-n",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      },
+      {
+        "name": "Prime Factorization",
+        "slug": "prime-factorization"
+      }
+    ]
+  },
+  "longest-subarray-of-1s-after-deleting-one-element": {
+    "questionId": "1586",
+    "questionFrontendId": "1493",
+    "title": "Longest Subarray of 1's After Deleting One Element",
+    "titleSlug": "longest-subarray-of-1s-after-deleting-one-element",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Dynamic Programming",
+        "slug": "dynamic-programming"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "path-crossing": {
+    "questionId": "1619",
+    "questionFrontendId": "1496",
+    "title": "Path Crossing",
+    "titleSlug": "path-crossing",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "number-of-good-pairs": {
+    "questionId": "1635",
+    "questionFrontendId": "1512",
+    "title": "Number of Good Pairs",
+    "titleSlug": "number-of-good-pairs",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "shuffle-string": {
+    "questionId": "1651",
+    "questionFrontendId": "1528",
+    "title": "Shuffle String",
+    "titleSlug": "shuffle-string",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "count-good-triplets": {
+    "questionId": "1656",
+    "questionFrontendId": "1534",
+    "title": "Count Good Triplets",
+    "titleSlug": "count-good-triplets",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      }
+    ]
+  },
+  "kth-missing-positive-number": {
+    "questionId": "1646",
+    "questionFrontendId": "1539",
+    "title": "Kth Missing Positive Number",
+    "titleSlug": "kth-missing-positive-number",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  },
+  "three-consecutive-odds": {
+    "questionId": "1293",
+    "questionFrontendId": "1550",
+    "title": "Three Consecutive Odds",
+    "titleSlug": "three-consecutive-odds",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "maximum-number-of-coins-you-can-get": {
+    "questionId": "1683",
+    "questionFrontendId": "1561",
+    "title": "Maximum Number of Coins You Can Get",
+    "titleSlug": "maximum-number-of-coins-you-can-get",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Game Theory",
+        "slug": "game-theory"
+      }
+    ]
+  },
+  "matrix-diagonal-sum": {
+    "questionId": "1677",
+    "questionFrontendId": "1572",
+    "title": "Matrix Diagonal Sum",
+    "titleSlug": "matrix-diagonal-sum",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "customer-who-visited-but-did-not-make-any-transactions": {
+    "questionId": "1724",
+    "questionFrontendId": "1581",
+    "title": "Customer Who Visited but Did Not Make Any Transactions",
+    "titleSlug": "customer-who-visited-but-did-not-make-any-transactions",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  },
+  "sum-of-all-odd-length-subarrays": {
+    "questionId": "1693",
+    "questionFrontendId": "1588",
+    "title": "Sum of All Odd Length Subarrays",
+    "titleSlug": "sum-of-all-odd-length-subarrays",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "crawler-log-folder": {
+    "questionId": "1720",
+    "questionFrontendId": "1598",
+    "title": "Crawler Log Folder",
+    "titleSlug": "crawler-log-folder",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      }
+    ]
+  },
+  "maximum-nesting-depth-of-the-parentheses": {
+    "questionId": "1737",
+    "questionFrontendId": "1614",
+    "title": "Maximum Nesting Depth of the Parentheses",
+    "titleSlug": "maximum-nesting-depth-of-the-parentheses",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Bracket Sequences",
+        "slug": "bracket-sequences"
+      }
+    ]
+  },
+  "largest-substring-between-two-equal-characters": {
+    "questionId": "1746",
+    "questionFrontendId": "1624",
+    "title": "Largest Substring Between Two Equal Characters",
+    "titleSlug": "largest-substring-between-two-equal-characters",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "sort-array-by-increasing-frequency": {
+    "questionId": "1741",
+    "questionFrontendId": "1636",
+    "title": "Sort Array by Increasing Frequency",
+    "titleSlug": "sort-array-by-increasing-frequency",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "widest-vertical-area-between-two-points-containing-no-points": {
+    "questionId": "1742",
+    "questionFrontendId": "1637",
+    "title": "Widest Vertical Area Between Two Points Containing No Points",
+    "titleSlug": "widest-vertical-area-between-two-points-containing-no-points",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "defuse-the-bomb": {
+    "questionId": "1755",
+    "questionFrontendId": "1652",
+    "title": "Defuse the Bomb",
+    "titleSlug": "defuse-the-bomb",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "average-time-of-process-per-machine": {
+    "questionId": "1801",
+    "questionFrontendId": "1661",
+    "title": "Average Time of Process per Machine",
+    "titleSlug": "average-time-of-process-per-machine",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  },
+  "check-if-two-string-arrays-are-equivalent": {
+    "questionId": "1781",
+    "questionFrontendId": "1662",
+    "title": "Check If Two String Arrays are Equivalent",
+    "titleSlug": "check-if-two-string-arrays-are-equivalent",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "merge-in-between-linked-lists": {
+    "questionId": "1765",
+    "questionFrontendId": "1669",
+    "title": "Merge In Between Linked Lists",
+    "titleSlug": "merge-in-between-linked-lists",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      }
+    ]
+  },
+  "richest-customer-wealth": {
+    "questionId": "1791",
+    "questionFrontendId": "1672",
+    "title": "Richest Customer Wealth",
+    "titleSlug": "richest-customer-wealth",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Matrix",
+        "slug": "matrix"
+      }
+    ]
+  },
+  "goal-parser-interpretation": {
+    "questionId": "1797",
+    "questionFrontendId": "1678",
+    "title": "Goal Parser Interpretation",
+    "titleSlug": "goal-parser-interpretation",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "invalid-tweets": {
+    "questionId": "1827",
+    "questionFrontendId": "1683",
+    "title": "Invalid Tweets",
+    "titleSlug": "invalid-tweets",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  },
+  "count-the-number-of-consistent-strings": {
+    "questionId": "1786",
+    "questionFrontendId": "1684",
+    "title": "Count the Number of Consistent Strings",
+    "titleSlug": "count-the-number-of-consistent-strings",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "count-of-matches-in-tournament": {
+    "questionId": "1806",
+    "questionFrontendId": "1688",
+    "title": "Count of Matches in Tournament",
+    "titleSlug": "count-of-matches-in-tournament",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "partitioning-into-minimum-number-of-deci-binary-numbers": {
+    "questionId": "1807",
+    "questionFrontendId": "1689",
+    "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+    "titleSlug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "maximum-erasure-value": {
+    "questionId": "1813",
+    "questionFrontendId": "1695",
+    "title": "Maximum Erasure Value",
+    "titleSlug": "maximum-erasure-value",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      }
+    ]
+  },
+  "number-of-students-unable-to-eat-lunch": {
+    "questionId": "1802",
+    "questionFrontendId": "1700",
+    "title": "Number of Students Unable to Eat Lunch",
+    "titleSlug": "number-of-students-unable-to-eat-lunch",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Queue",
+        "slug": "queue"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "determine-if-string-halves-are-alike": {
+    "questionId": "1823",
+    "questionFrontendId": "1704",
+    "title": "Determine if String Halves Are Alike",
+    "titleSlug": "determine-if-string-halves-are-alike",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "calculate-money-in-leetcode-bank": {
+    "questionId": "1817",
+    "questionFrontendId": "1716",
+    "title": "Calculate Money in Leetcode Bank",
+    "titleSlug": "calculate-money-in-leetcode-bank",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "decode-xored-array": {
+    "questionId": "1839",
+    "questionFrontendId": "1720",
+    "title": "Decode XORed Array",
+    "titleSlug": "decode-xored-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Bit Manipulation",
+        "slug": "bit-manipulation"
+      }
+    ]
+  },
+  "swapping-nodes-in-a-linked-list": {
+    "questionId": "528",
+    "questionFrontendId": "1721",
+    "title": "Swapping Nodes in a Linked List",
+    "titleSlug": "swapping-nodes-in-a-linked-list",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Linked List",
+        "slug": "linked-list"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      }
+    ]
+  },
+  "find-followers-count": {
+    "questionId": "1877",
+    "questionFrontendId": "1729",
+    "title": "Find Followers Count",
+    "titleSlug": "find-followers-count",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  },
+  "find-the-highest-altitude": {
+    "questionId": "1833",
+    "questionFrontendId": "1732",
+    "title": "Find the Highest Altitude",
+    "titleSlug": "find-the-highest-altitude",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Prefix Sum",
+        "slug": "prefix-sum"
+      }
+    ]
+  },
+  "sum-of-unique-elements": {
+    "questionId": "1848",
+    "questionFrontendId": "1748",
+    "title": "Sum of Unique Elements",
+    "titleSlug": "sum-of-unique-elements",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "recyclable-and-low-fat-products": {
+    "questionId": "1908",
+    "questionFrontendId": "1757",
+    "title": "Recyclable and Low Fat Products",
+    "titleSlug": "recyclable-and-low-fat-products",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database"
+      }
+    ]
+  },
+  "minimum-changes-to-make-alternating-binary-string": {
+    "questionId": "1884",
+    "questionFrontendId": "1758",
+    "title": "Minimum Changes To Make Alternating Binary String",
+    "titleSlug": "minimum-changes-to-make-alternating-binary-string",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "merge-strings-alternately": {
+    "questionId": "1894",
+    "questionFrontendId": "1768",
+    "title": "Merge Strings Alternately",
+    "titleSlug": "merge-strings-alternately",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "count-items-matching-a-rule": {
+    "questionId": "1899",
+    "questionFrontendId": "1773",
+    "title": "Count Items Matching a Rule",
+    "titleSlug": "count-items-matching-a-rule",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "check-if-binary-string-has-at-most-one-segment-of-ones": {
+    "questionId": "1910",
+    "questionFrontendId": "1784",
+    "title": "Check if Binary String Has at Most One Segment of Ones",
+    "titleSlug": "check-if-binary-string-has-at-most-one-segment-of-ones",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "check-if-one-string-swap-can-make-strings-equal": {
+    "questionId": "1915",
+    "questionFrontendId": "1790",
+    "title": "Check if One String Swap Can Make Strings Equal",
+    "titleSlug": "check-if-one-string-swap-can-make-strings-equal",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "find-center-of-star-graph": {
+    "questionId": "1916",
+    "questionFrontendId": "1791",
+    "title": "Find Center of Star Graph",
+    "titleSlug": "find-center-of-star-graph",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Graph Theory",
+        "slug": "graph"
+      }
+    ]
+  },
+  "determine-color-of-a-chessboard-square": {
+    "questionId": "1920",
+    "questionFrontendId": "1812",
+    "title": "Determine Color of a Chessboard Square",
+    "titleSlug": "determine-color-of-a-chessboard-square",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "truncate-sentence": {
+    "questionId": "1944",
+    "questionFrontendId": "1816",
+    "title": "Truncate Sentence",
+    "titleSlug": "truncate-sentence",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "sign-of-the-product-of-an-array": {
+    "questionId": "1950",
+    "questionFrontendId": "1822",
+    "title": "Sign of the Product of an Array",
+    "titleSlug": "sign-of-the-product-of-an-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Math",
+        "slug": "math"
+      }
+    ]
+  },
+  "minimum-operations-to-make-the-array-increasing": {
+    "questionId": "1938",
+    "questionFrontendId": "1827",
+    "title": "Minimum Operations to Make the Array Increasing",
+    "titleSlug": "minimum-operations-to-make-the-array-increasing",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      }
+    ]
+  },
+  "check-if-the-sentence-is-pangram": {
+    "questionId": "1960",
+    "questionFrontendId": "1832",
+    "title": "Check if the Sentence Is Pangram",
+    "titleSlug": "check-if-the-sentence-is-pangram",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "minimum-distance-to-the-target-element": {
+    "questionId": "1975",
+    "questionFrontendId": "1848",
+    "title": "Minimum Distance to the Target Element",
+    "titleSlug": "minimum-distance-to-the-target-element",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      }
+    ]
+  },
+  "maximum-distance-between-a-pair-of-values": {
+    "questionId": "1984",
+    "questionFrontendId": "1855",
+    "title": "Maximum Distance Between a Pair of Values",
+    "titleSlug": "maximum-distance-between-a-pair-of-values",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Binary Search",
+        "slug": "binary-search"
+      }
+    ]
+  },
+  "sorting-the-sentence": {
+    "questionId": "1970",
+    "questionFrontendId": "1859",
+    "title": "Sorting the Sentence",
+    "titleSlug": "sorting-the-sentence",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      },
+      {
+        "name": "Bubble Sort",
+        "slug": "bubble-sort"
+      }
+    ]
+  },
+  "substrings-of-size-three-with-distinct-characters": {
+    "questionId": "1987",
+    "questionFrontendId": "1876",
+    "title": "Substrings of Size Three with Distinct Characters",
+    "titleSlug": "substrings-of-size-three-with-distinct-characters",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Sliding Window",
+        "slug": "sliding-window"
+      },
+      {
+        "name": "Counting",
+        "slug": "counting"
+      }
+    ]
+  },
+  "minimize-maximum-pair-sum-in-array": {
+    "questionId": "1988",
+    "questionFrontendId": "1877",
+    "title": "Minimize Maximum Pair Sum in Array",
+    "titleSlug": "minimize-maximum-pair-sum-in-array",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Two Pointers",
+        "slug": "two-pointers"
+      },
+      {
+        "name": "Greedy",
+        "slug": "greedy"
+      },
+      {
+        "name": "Sorting",
+        "slug": "sorting"
+      }
+    ]
+  },
+  "remove-all-occurrences-of-a-substring": {
+    "questionId": "2021",
+    "questionFrontendId": "1910",
+    "title": "Remove All Occurrences of a Substring",
+    "titleSlug": "remove-all-occurrences-of-a-substring",
+    "difficulty": "Medium",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Stack",
+        "slug": "stack"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "build-array-from-permutation": {
+    "questionId": "2048",
+    "questionFrontendId": "1920",
+    "title": "Build Array from Permutation",
+    "titleSlug": "build-array-from-permutation",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "concatenation-of-array": {
+    "questionId": "2058",
+    "questionFrontendId": "1929",
+    "title": "Concatenation of Array",
+    "titleSlug": "concatenation-of-array",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "maximum-number-of-words-you-can-type": {
+    "questionId": "1264",
+    "questionFrontendId": "1935",
+    "title": "Maximum Number of Words You Can Type",
+    "titleSlug": "maximum-number-of-words-you-can-type",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Hash Table",
+        "slug": "hash-table"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "sum-of-digits-of-string-after-convert": {
+    "questionId": "2076",
+    "questionFrontendId": "1945",
+    "title": "Sum of Digits of String After Convert",
+    "titleSlug": "sum-of-digits-of-string-after-convert",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "String",
+        "slug": "string"
+      },
+      {
+        "name": "Simulation",
+        "slug": "simulation"
+      }
+    ]
+  },
+  "three-divisors": {
+    "questionId": "2083",
+    "questionFrontendId": "1952",
+    "title": "Three Divisors",
+    "titleSlug": "three-divisors",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Math",
+        "slug": "math"
+      },
+      {
+        "name": "Enumeration",
+        "slug": "enumeration"
+      },
+      {
+        "name": "Number Theory",
+        "slug": "number-theory"
+      },
+      {
+        "name": "Prime Factorization",
+        "slug": "prime-factorization"
+      },
+      {
+        "name": "Sieve Theory",
+        "slug": "sieve-theory"
+      }
+    ]
+  },
+  "number-of-strings-that-appear-as-substrings-in-word": {
+    "questionId": "2099",
+    "questionFrontendId": "1967",
+    "title": "Number of Strings That Appear as Substrings in Word",
+    "titleSlug": "number-of-strings-that-appear-as-substrings-in-word",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Array",
+        "slug": "array"
+      },
+      {
+        "name": "String",
+        "slug": "string"
+      }
+    ]
+  },
+  "employees-whose-manager-left-the-company": {
+    "questionId": "2127",
+    "questionFrontendId": "1978",
+    "title": "Employees Whose Manager Left the Company",
+    "titleSlug": "employees-whose-manager-left-the-company",
+    "difficulty": "Easy",
+    "topicTags": [
+      {
+        "name": "Database",
+        "slug": "database"
       }
     ]
   }
