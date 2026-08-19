@@ -6,7 +6,15 @@
 ![Hard](https://img.shields.io/badge/Hard-9-E15554?style=for-the-badge)
 ![Accuracy](https://img.shields.io/badge/Accuracy-82.9%25-blue?style=for-the-badge)
 
-Welcome to my personal **LeetCode Solutions Repository**! This automated repository contains all my solved algorithm and SQL problem solutions, organized cleanly with backdated commit history matching submission dates.
+Welcome to **DSA-Journey**! This repository documents my ongoing journey of solving LeetCode problems. It contains:
+- **Algorithm & Data Structure** solutions
+- **SQL/Database** solutions
+- Organized problem and topic navigation
+- Automated statistics and progress tracking
+- Backdated commit history reflecting original submission dates
+
+### 🔗 LeetCode Profile
+[@patel_jivan](https://leetcode.com/u/patel_jivan/)
 
 ---
 
@@ -35,6 +43,19 @@ Welcome to my personal **LeetCode Solutions Repository**! This automated reposit
 
 ---
 
+## 📈 Recent Milestones
+
+- 🏆 **471** total problems solved
+- 🟢 **333** Easy
+- 🟡 **129** Medium
+- 🔴 **9** Hard
+- 💻 **5** languages used
+- 🎯 **Next milestone:** 500 problems
+
+`471 / 500 ██████████████████░░ 94.2%`
+
+---
+
 ## 📂 Quick Navigation Directory
 
 - 📖 [**Browse All Solved Questions Catalog (`ALL_SOLUTIONS.md`)**](ALL_SOLUTIONS.md) - Complete numerical index of all solved problems.
@@ -44,15 +65,15 @@ Welcome to my personal **LeetCode Solutions Repository**! This automated reposit
 
 ## 🔥 Top Problem Topics
 
-| Topic | Questions Solved | Easy | Medium | Hard |
-| :--- | :---: | :---: | :---: | :---: |
-| **Array** | 218 | 156 | 59 | 3 |
-| **String** | 137 | 101 | 33 | 3 |
-| **Math** | 107 | 83 | 22 | 2 |
-| **Hash Table** | 94 | 68 | 26 | 0 |
-| **Two Pointers** | 64 | 36 | 28 | 0 |
-| **Sorting** | 56 | 38 | 18 | 0 |
-| **Simulation** | 50 | 35 | 14 | 1 |
-| **Linked List** | 41 | 10 | 29 | 2 |
-| **Bit Manipulation** | 31 | 22 | 9 | 0 |
-| **Stack** | 30 | 13 | 16 | 1 |
+| Topic | Questions Solved | % of Total Problems | Easy | Medium | Hard |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Array** | 218 | 46.3% | 156 | 59 | 3 |
+| **String** | 137 | 29.1% | 101 | 33 | 3 |
+| **Math** | 107 | 22.7% | 83 | 22 | 2 |
+| **Hash Table** | 94 | 20.0% | 68 | 26 | 0 |
+| **Two Pointers** | 64 | 13.6% | 36 | 28 | 0 |
+| **Sorting** | 56 | 11.9% | 38 | 18 | 0 |
+| **Simulation** | 50 | 10.6% | 35 | 14 | 1 |
+| **Linked List** | 41 | 8.7% | 10 | 29 | 2 |
+| **Bit Manipulation** | 31 | 6.6% | 22 | 9 | 0 |
+| **Stack** | 30 | 6.4% | 13 | 16 | 1 |

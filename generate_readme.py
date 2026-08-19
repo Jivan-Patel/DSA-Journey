@@ -298,7 +298,15 @@ def generate_readme_md(total, easy, medium, hard, lang_counts, topic_map, solved
 ![Hard](https://img.shields.io/badge/Hard-{hard}-E15554?style=for-the-badge)
 {acc_badge}
 
-Welcome to my personal **LeetCode Solutions Repository**! This automated repository contains all my solved algorithm and SQL problem solutions, organized cleanly with backdated commit history matching submission dates.
+Welcome to **DSA-Journey**! This repository documents my ongoing journey of solving LeetCode problems. It contains:
+- **Algorithm & Data Structure** solutions
+- **SQL/Database** solutions
+- Organized problem and topic navigation
+- Automated statistics and progress tracking
+- Backdated commit history reflecting original submission dates
+
+### 🔗 LeetCode Profile
+[@patel_jivan](https://leetcode.com/u/patel_jivan/)
 
 ---
 
@@ -324,7 +332,27 @@ Welcome to my personal **LeetCode Solutions Repository**! This automated reposit
         lpct = (count / total * 100) if total else 0
         content += f"| **{lang}** | {count} | {lpct:.1f}% |\n"
 
-    content += """
+    milestone = 500
+    milestone_pct = (total / milestone) * 100
+    filled_blocks = min(20, int(milestone_pct / 100 * 20))
+    empty_blocks = 20 - filled_blocks
+    progress_bar = "█" * filled_blocks + "░" * empty_blocks
+    lang_total = len(lang_counts)
+
+    content += f"""
+---
+
+## 📈 Recent Milestones
+
+- 🏆 **{total}** total problems solved
+- 🟢 **{easy}** Easy
+- 🟡 **{medium}** Medium
+- 🔴 **{hard}** Hard
+- 💻 **{lang_total}** languages used
+- 🎯 **Next milestone:** {milestone} problems
+
+`{total} / {milestone} {progress_bar} {milestone_pct:.1f}%`
+
 ---
 
 ## \U0001F4C2 Quick Navigation Directory
@@ -336,15 +364,17 @@ Welcome to my personal **LeetCode Solutions Repository**! This automated reposit
 
 ## \U0001F525 Top Problem Topics
 
-| Topic | Questions Solved | Easy | Medium | Hard |
-| :--- | :---: | :---: | :---: | :---: |
+| Topic | Questions Solved | % of Total Problems | Easy | Medium | Hard |
+| :--- | :---: | :---: | :---: | :---: | :---: |
 """
     sorted_topics = sorted(topic_map.items(), key=lambda x: len(x[1]), reverse=True)
     for tname, tquestions in sorted_topics[:10]:
+        t_len = len(tquestions)
+        t_pct = (t_len / total * 100) if total else 0
         teasy = sum(1 for q in tquestions if (q['difficulty'] or '').lower() == 'easy')
         tmed = sum(1 for q in tquestions if (q['difficulty'] or '').lower() == 'medium')
         thard = sum(1 for q in tquestions if (q['difficulty'] or '').lower() == 'hard')
-        content += f"| **{tname}** | {len(tquestions)} | {teasy} | {tmed} | {thard} |\n"
+        content += f"| **{tname}** | {t_len} | {t_pct:.1f}% | {teasy} | {tmed} | {thard} |\n"
 
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(content)
@@ -362,8 +392,8 @@ def generate_all_solutions_md(solved_questions):
     for q in solved_questions:
         fid = q.get('frontend_id') or 0
         fid_str = f"{fid:04d}"
-        leetcode_url = f"https://leetcode.com/problems/{q['titleSlug']}/"
-        title_link = f"[{q['title']}]({leetcode_url})"
+        repo_folder_url = f"leetcode/{q['folder']}"
+        title_link = f"[{q['title']}]({repo_folder_url})"
         diff_badge = get_diff_badge(q['difficulty'])
         
         sol_links = []
@@ -412,8 +442,8 @@ def generate_topics_md(topic_map):
         for q in sorted_tq:
             fid = q.get('frontend_id') or 0
             fid_str = f"{fid:04d}"
-            leetcode_url = f"https://leetcode.com/problems/{q['titleSlug']}/"
-            title_link = f"[{q['title']}]({leetcode_url})"
+            repo_folder_url = f"leetcode/{q['folder']}"
+            title_link = f"[{q['title']}]({repo_folder_url})"
             diff_badge = get_diff_badge(q['difficulty'])
             
             sol_links = []
