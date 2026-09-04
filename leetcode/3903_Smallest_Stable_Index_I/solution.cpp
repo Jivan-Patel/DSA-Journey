@@ -1,23 +1,20 @@
 class Solution {
-private:
-    int minIdx(vector<int> nums, int i) {
-        int minim = i;
-        for(int j = i+1; j < nums.size(); j++) {
-            if(nums[minim] > nums[j])
-                minim = j;
-        }
-        return minim;
-    }
 public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n = nums.size();
-        int maxim = nums[0];
-        int minI = minIdx(nums, 0);
-        
+        int maxNum = nums[0];
+
+        int minNum = INT_MAX;
+        vector<int> minArr(n, -1);
+
+        for(int i = n - 1; i >=0; i--) {
+            minNum = min(minNum, nums[i]);
+            minArr[i] = minNum;
+        }
+
         for(int i = 0; i < n; i++) {
-            maxim = max(maxim, nums[i]);
-            if(maxim - nums[minI] <= k) return i;
-            if(minI == i) minI = minIdx(nums, i+1);
+            maxNum = max(maxNum, nums[i]);
+            if(maxNum - minArr[i] <= k) return i;
         }
         return -1;
     }
