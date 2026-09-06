@@ -11,28 +11,25 @@
 class Solution {
 private:
     ListNode* reverseList(ListNode* head) {
-        if (head == nullptr || head->next == nullptr) {
-            return head;
+        if (head == nullptr || head->next == nullptr) return head;
+
+        ListNode* rev = nullptr;
+
+        while (head != nullptr) {
+            ListNode* next = head->next;
+            head->next = rev;
+            rev = head;
+            head = next;
         }
 
-        ListNode* prev = nullptr;
-        ListNode* current = head;
-
-        while (current) {
-            ListNode* next = current->next;
-            current->next = prev;
-            prev = current;
-            current = next;
-        }
-
-        return prev;
+        return rev;
     }
 
 public:
     int pairSum(ListNode* head) {
         ListNode *slow = head, *fast = head;
 
-        while (fast->next && fast->next->next) {
+        while (fast->next != nullptr && fast->next->next != nullptr) {
             fast = fast->next->next;
             slow = slow->next;
         }
@@ -40,7 +37,8 @@ public:
         ListNode* rev = reverseList(slow);
 
         int maxTwinSum = head-> val + rev->val;
-        while(rev && head) {
+
+        while(rev != nullptr && head != nullptr) {
             maxTwinSum = max(maxTwinSum, head->val + rev->val);
             rev = rev->next;
             head = head->next;
