@@ -16,20 +16,18 @@ public:
             return head;
         }
 
-        ListNode* even = new ListNode(0);
+        ListNode* even = head->next;
 
-        ListNode *temp = head, *temp1 = even;
+        ListNode *i = head, *j = even;
 
-        while (temp->next != nullptr) {
-            temp1->next = temp->next;
-            temp->next = temp->next->next;
-            temp1 = temp1->next;
-
-            if (temp->next) temp = temp->next;
+        while (j != nullptr && j->next != nullptr) {
+            i->next = j->next;
+            i = i->next;
+            j->next = i->next;
+            j = j->next;
         }
 
-        temp1->next = nullptr;
-        temp->next = even->next;
+        i->next = even;
 
         return head;
     }
