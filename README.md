@@ -58,8 +58,8 @@ Welcome to **DSA-Journey**! This repository documents my ongoing journey of solv
 
 ## 📂 Quick Navigation Directory
 
-- 📖 [**Browse All Solved Questions Catalog (`ALL_SOLUTIONS.md`)**](ALL_SOLUTIONS.md) - Complete numerical index of all solved problems.
-- 🏷 [**Browse Questions by Topic (`TOPICS.md`)**](TOPICS.md) - Categorized problem sets by topic tags (Array, Dynamic Programming, Database, etc.).
+- 📖 [**Browse All Solved Questions Catalog (`LEETCODE_SOLUTIONS.md`)**](LEETCODE_SOLUTIONS.md) - Complete numerical index of all solved problems.
+- 🏷 [**Browse Questions by Topic (`LEETCODE_TOPICS.md`)**](LEETCODE_TOPICS.md) - Categorized problem sets by topic tags (Array, Dynamic Programming, Database, etc.).
 
 ---
 

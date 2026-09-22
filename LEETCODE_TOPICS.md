@@ -1,6 +1,6 @@
 # 🏷 LeetCode Questions by Topic
 
-[← Back to Dashboard](README.md) | [View Complete Solutions List →](ALL_SOLUTIONS.md)
+[← Back to Dashboard](README.md) | [View Complete Solutions List →](LEETCODE_SOLUTIONS.md)
 
 ## 📌 Topic Overview
 

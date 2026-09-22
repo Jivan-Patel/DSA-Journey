@@ -255,7 +255,7 @@ def commit_solution(repo_dir, folder_name, filename, code, timestamp, frontend_i
     return True
 
 def main():
-    repo_dir = os.path.abspath(os.path.dirname(__file__))
+    repo_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
     
     session_cookie = os.environ.get("LEETCODE_SESSION", "").strip()
     csrf_token = os.environ.get("LEETCODE_CSRF", "").strip()

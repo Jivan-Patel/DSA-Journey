@@ -5,7 +5,8 @@ import re
 import time
 from datetime import datetime
 
-repo_dir = os.path.dirname(os.path.abspath(__file__))
+script_dir = os.path.dirname(os.path.abspath(__file__))
+repo_dir = os.path.abspath(os.path.join(script_dir, ".."))
 leetcode_dir = os.path.join(repo_dir, "leetcode")
 cache_file = os.path.join(repo_dir, "metadata_cache.json")
 
@@ -357,8 +358,8 @@ Welcome to **DSA-Journey**! This repository documents my ongoing journey of solv
 
 ## \U0001F4C2 Quick Navigation Directory
 
-- \U0001F4D6 [**Browse All Solved Questions Catalog (`ALL_SOLUTIONS.md`)**](ALL_SOLUTIONS.md) - Complete numerical index of all solved problems.
-- \U0001F3F7 [**Browse Questions by Topic (`TOPICS.md`)**](TOPICS.md) - Categorized problem sets by topic tags (Array, Dynamic Programming, Database, etc.).
+- \U0001F4D6 [**Browse All Solved Questions Catalog (`LEETCODE_SOLUTIONS.md`)**](LEETCODE_SOLUTIONS.md) - Complete numerical index of all solved problems.
+- \U0001F3F7 [**Browse Questions by Topic (`LEETCODE_TOPICS.md`)**](LEETCODE_TOPICS.md) - Categorized problem sets by topic tags (Array, Dynamic Programming, Database, etc.).
 
 ---
 
@@ -380,11 +381,11 @@ Welcome to **DSA-Journey**! This repository documents my ongoing journey of solv
         f.write(content)
 
 def generate_all_solutions_md(solved_questions):
-    path = os.path.join(repo_dir, "ALL_SOLUTIONS.md")
+    path = os.path.join(repo_dir, "LEETCODE_SOLUTIONS.md")
     
     content = f"""# \U0001F4DA All Solved LeetCode Questions ({len(solved_questions)})
 
-[\U0001F1E6 Back to Dashboard](README.md) | [View Questions by Topic \U0001F1E7](TOPICS.md)
+[\U0001F1E6 Back to Dashboard](README.md) | [View Questions by Topic \U0001F1E7](LEETCODE_TOPICS.md)
 
 | # | Problem Title | Difficulty | Solutions | Topics |
 | :---: | :--- | :---: | :--- | :--- |
@@ -412,13 +413,13 @@ def generate_all_solutions_md(solved_questions):
         f.write(content)
 
 def generate_topics_md(topic_map):
-    path = os.path.join(repo_dir, "TOPICS.md")
+    path = os.path.join(repo_dir, "LEETCODE_TOPICS.md")
     
     sorted_topics = sorted(topic_map.items(), key=lambda x: str(x[0]))
     
     content = f"""# \U0001F3F7 LeetCode Questions by Topic
 
-[← Back to Dashboard](README.md) | [View Complete Solutions List →](ALL_SOLUTIONS.md)
+[← Back to Dashboard](README.md) | [View Complete Solutions List →](LEETCODE_SOLUTIONS.md)
 
 ## \U0001F4CC Topic Overview
 

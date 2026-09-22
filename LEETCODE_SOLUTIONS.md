@@ -1,6 +1,6 @@
 # 📚 All Solved LeetCode Questions (488)
 
-[🇦 Back to Dashboard](README.md) | [View Questions by Topic 🇧](TOPICS.md)
+[🇦 Back to Dashboard](README.md) | [View Questions by Topic 🇧](LEETCODE_TOPICS.md)
 
 | # | Problem Title | Difficulty | Solutions | Topics |
 | :---: | :--- | :---: | :--- | :--- |
