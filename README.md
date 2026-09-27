@@ -1,10 +1,10 @@
 # 🚀 LeetCode Solutions & Progress Dashboard
 
-![LeetCode Total Solved](https://img.shields.io/badge/Total%20Solved-471-brightgreen?style=for-the-badge&logo=leetcode)
-![Easy](https://img.shields.io/badge/Easy-333-20B2AA?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-129-F0A830?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-9-E15554?style=for-the-badge)
-![Accuracy](https://img.shields.io/badge/Accuracy-82.9%25-blue?style=for-the-badge)
+![LeetCode Total Solved](https://img.shields.io/badge/Total%20Solved-488-brightgreen?style=for-the-badge&logo=leetcode)
+![Easy](https://img.shields.io/badge/Easy-335-20B2AA?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-143-F0A830?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-10-E15554?style=for-the-badge)
+![Accuracy](https://img.shields.io/badge/Accuracy-82.7%25-blue?style=for-the-badge)
 
 Welcome to **DSA-Journey**! This repository documents my ongoing journey of solving LeetCode problems. It contains:
 - **Algorithm & Data Structure** solutions
@@ -24,10 +24,10 @@ Welcome to **DSA-Journey**! This repository documents my ongoing journey of solv
 
 | Difficulty | Solved Count | Percentage | Accepted Submissions | Total Submissions | Accuracy (Acceptance Rate) | Progress Bar |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| 🟢 **Easy** | **333** | 70.7% | 695 | 797 | **87.2%** | `██████████████░░░░░░` |
-| 🟡 **Medium** | **129** | 27.4% | 260 | 350 | **74.3%** | `█████░░░░░░░░░░░░░░░` |
-| 🔴 **Hard** | **9** | 1.9% | 11 | 18 | **61.1%** | `░░░░░░░░░░░░░░░░░░░░` |
-| **Total** | **471** | **100%** | **966** | **1,165** | **82.9%** | |
+| 🟢 **Easy** | **335** | 68.6% | 714 | 818 | **87.3%** | `█████████████░░░░░░░` |
+| 🟡 **Medium** | **143** | 29.3% | 295 | 398 | **74.1%** | `█████░░░░░░░░░░░░░░░` |
+| 🔴 **Hard** | **10** | 2.0% | 12 | 19 | **63.2%** | `░░░░░░░░░░░░░░░░░░░░` |
+| **Total** | **488** | **100%** | **1,021** | **1,235** | **82.7%** | |
 
 ---
 
@@ -35,9 +35,9 @@ Welcome to **DSA-Journey**! This repository documents my ongoing journey of solv
 
 | Language | Solved Questions | Percentage |
 | :--- | :---: | :---: |
-| **C++** | 394 | 83.7% |
-| **JavaScript** | 173 | 36.7% |
-| **MySQL** | 29 | 6.2% |
+| **C++** | 411 | 84.2% |
+| **JavaScript** | 173 | 35.5% |
+| **MySQL** | 30 | 6.1% |
 | **Java** | 1 | 0.2% |
 | **TypeScript** | 1 | 0.2% |
 
@@ -45,14 +45,14 @@ Welcome to **DSA-Journey**! This repository documents my ongoing journey of solv
 
 ## 📈 Recent Milestones
 
-- 🏆 **471** total problems solved
-- 🟢 **333** Easy
-- 🟡 **129** Medium
-- 🔴 **9** Hard
+- 🏆 **488** total problems solved
+- 🟢 **335** Easy
+- 🟡 **143** Medium
+- 🔴 **10** Hard
 - 💻 **5** languages used
 - 🎯 **Next milestone:** 500 problems
 
-`471 / 500 ██████████████████░░ 94.2%`
+`488 / 500 ███████████████████░ 97.6%`
 
 ---
 
@@ -67,13 +67,13 @@ Welcome to **DSA-Journey**! This repository documents my ongoing journey of solv
 
 | Topic | Questions Solved | % of Total Problems | Easy | Medium | Hard |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Array** | 218 | 46.3% | 156 | 59 | 3 |
-| **String** | 137 | 29.1% | 101 | 33 | 3 |
-| **Math** | 107 | 22.7% | 83 | 22 | 2 |
-| **Hash Table** | 94 | 20.0% | 68 | 26 | 0 |
-| **Two Pointers** | 64 | 13.6% | 36 | 28 | 0 |
-| **Sorting** | 56 | 11.9% | 38 | 18 | 0 |
-| **Simulation** | 50 | 10.6% | 35 | 14 | 1 |
-| **Linked List** | 41 | 8.7% | 10 | 29 | 2 |
-| **Bit Manipulation** | 31 | 6.6% | 22 | 9 | 0 |
-| **Stack** | 30 | 6.4% | 13 | 16 | 1 |
+| **Array** | 232 | 47.5% | 158 | 70 | 4 |
+| **String** | 139 | 28.5% | 101 | 35 | 3 |
+| **Math** | 111 | 22.7% | 84 | 25 | 2 |
+| **Hash Table** | 98 | 20.1% | 68 | 30 | 0 |
+| **Two Pointers** | 65 | 13.3% | 37 | 28 | 0 |
+| **Sorting** | 57 | 11.7% | 38 | 19 | 0 |
+| **Simulation** | 52 | 10.7% | 36 | 15 | 1 |
+| **Linked List** | 42 | 8.6% | 10 | 30 | 2 |
+| **Stack** | 33 | 6.8% | 13 | 18 | 2 |
+| **Bit Manipulation** | 32 | 6.6% | 22 | 10 | 0 |

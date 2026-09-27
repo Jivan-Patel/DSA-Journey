@@ -1,4 +1,4 @@
-# 📚 All Solved LeetCode Questions (471)
+# 📚 All Solved LeetCode Questions (488)
 
 [🇦 Back to Dashboard](README.md) | [View Questions by Topic 🇧](TOPICS.md)
 
@@ -32,10 +32,12 @@
 | 0035 | [Search Insert Position](leetcode/0035_Search_Insert_Position) | 🟢 Easy | [C++](leetcode/0035_Search_Insert_Position/solution.cpp), [JavaScript](leetcode/0035_Search_Insert_Position/solution.js) | `Array`, `Binary Search` |
 | 0036 | [Valid Sudoku](leetcode/0036_Valid_Sudoku) | 🟡 Medium | [C++](leetcode/0036_Valid_Sudoku/solution.cpp) | `Array`, `Hash Table`, `Matrix` |
 | 0038 | [Count and Say](leetcode/0038_Count_and_Say) | 🟡 Medium | [C++](leetcode/0038_Count_and_Say/solution.cpp) | `String` |
+| 0048 | [Rotate Image](leetcode/0048_Rotate_Image) | 🟡 Medium | [C++](leetcode/0048_Rotate_Image/solution.cpp) | `Array`, `Math`, `Matrix` |
 | 0049 | [Group Anagrams](leetcode/0049_Group_Anagrams) | 🟡 Medium | [C++](leetcode/0049_Group_Anagrams/solution.cpp) | `Array`, `Hash Table`, `String` *(+1)* |
 | 0050 | [Pow(x, n)](leetcode/0050_Pow(x,_n)) | 🟡 Medium | [C++](leetcode/0050_Pow(x,_n)/solution.cpp), [JavaScript](leetcode/0050_Pow(x,_n)/solution.js) | `Math`, `Recursion` |
 | 0053 | [Maximum Subarray](leetcode/0053_Maximum_Subarray) | 🟡 Medium | [C++](leetcode/0053_Maximum_Subarray/solution.cpp) | `Array`, `Divide and Conquer`, `Dynamic Programming` |
 | 0054 | [Spiral Matrix](leetcode/0054_Spiral_Matrix) | 🟡 Medium | [C++](leetcode/0054_Spiral_Matrix/solution.cpp) | `Array`, `Matrix`, `Simulation` |
+| 0056 | [Merge Intervals](leetcode/0056_Merge_Intervals) | 🟡 Medium | [C++](leetcode/0056_Merge_Intervals/solution.cpp) | `Array`, `Sorting`, `Quicksort` |
 | 0058 | [Length of Last Word](leetcode/0058_Length_of_Last_Word) | 🟢 Easy | [C++](leetcode/0058_Length_of_Last_Word/solution.cpp), [JavaScript](leetcode/0058_Length_of_Last_Word/solution.js) | `String` |
 | 0059 | [Spiral Matrix II](leetcode/0059_Spiral_Matrix_II) | 🟡 Medium | [C++](leetcode/0059_Spiral_Matrix_II/solution.cpp) | `Array`, `Matrix`, `Simulation` |
 | 0061 | [Rotate List](leetcode/0061_Rotate_List) | 🟡 Medium | [C++](leetcode/0061_Rotate_List/solution.cpp) | `Linked List`, `Two Pointers` |
@@ -122,7 +124,7 @@
 | 0394 | [Decode String](leetcode/0394_Decode_String) | 🟡 Medium | [C++](leetcode/0394_Decode_String/solution.cpp) | `String`, `Stack`, `Recursion` |
 | 0397 | [Integer Replacement](leetcode/0397_Integer_Replacement) | 🟡 Medium | [C++](leetcode/0397_Integer_Replacement/solution.cpp) | `Dynamic Programming`, `Greedy`, `Bit Manipulation` *(+1)* |
 | 0412 | [Fizz Buzz](leetcode/0412_Fizz_Buzz) | 🟢 Easy | [JavaScript](leetcode/0412_Fizz_Buzz/solution.js) | `Math`, `String`, `Simulation` |
-| 0414 | [Third Maximum Number](leetcode/0414_Third_Maximum_Number) | 🟢 Easy | [JavaScript](leetcode/0414_Third_Maximum_Number/solution.js) | `Array`, `Sorting` |
+| 0414 | [Third Maximum Number](leetcode/0414_Third_Maximum_Number) | 🟢 Easy | [C++](leetcode/0414_Third_Maximum_Number/solution.cpp), [JavaScript](leetcode/0414_Third_Maximum_Number/solution.js) | `Array`, `Sorting` |
 | 0415 | [Add Strings](leetcode/0415_Add_Strings) | 🟢 Easy | [JavaScript](leetcode/0415_Add_Strings/solution.js) | `Math`, `String`, `Simulation` |
 | 0430 | [Flatten a Multilevel Doubly Linked List](leetcode/0430_Flatten_a_Multilevel_Doubly_Linked_List) | 🟡 Medium | [C++](leetcode/0430_Flatten_a_Multilevel_Doubly_Linked_List/solution.cpp) | `Linked List`, `Depth-First Search`, `Doubly-Linked List` |
 | 0434 | [Number of Segments in a String](leetcode/0434_Number_of_Segments_in_a_String) | 🟢 Easy | [C++](leetcode/0434_Number_of_Segments_in_a_String/solution.cpp), [JavaScript](leetcode/0434_Number_of_Segments_in_a_String/solution.js) | `String` |
@@ -131,6 +133,7 @@
 | 0448 | [Find All Numbers Disappeared in an Array](leetcode/0448_Find_All_Numbers_Disappeared_in_an_Array) | 🟢 Easy | [C++](leetcode/0448_Find_All_Numbers_Disappeared_in_an_Array/solution.cpp) | `Array`, `Hash Table` |
 | 0476 | [Number Complement](leetcode/0476_Number_Complement) | 🟢 Easy | [C++](leetcode/0476_Number_Complement/solution.cpp) | `Bit Manipulation` |
 | 0496 | [Next Greater Element I](leetcode/0496_Next_Greater_Element_I) | 🟢 Easy | [C++](leetcode/0496_Next_Greater_Element_I/solution.cpp) | `Array`, `Hash Table`, `Stack` *(+1)* |
+| 0498 | [Diagonal Traverse](leetcode/0498_Diagonal_Traverse) | 🟡 Medium | [C++](leetcode/0498_Diagonal_Traverse/solution.cpp) | `Array`, `Matrix`, `Simulation` |
 | 0500 | [Keyboard Row](leetcode/0500_Keyboard_Row) | 🟢 Easy | [C++](leetcode/0500_Keyboard_Row/solution.cpp) | `Array`, `Hash Table`, `String` |
 | 0503 | [Next Greater Element II](leetcode/0503_Next_Greater_Element_II) | 🟡 Medium | [C++](leetcode/0503_Next_Greater_Element_II/solution.cpp) | `Array`, `Stack`, `Monotonic Stack` |
 | 0506 | [Relative Ranks](leetcode/0506_Relative_Ranks) | 🟢 Easy | [C++](leetcode/0506_Relative_Ranks/solution.cpp) | `Array`, `Sorting`, `Heap (Priority Queue)` |
@@ -161,6 +164,7 @@
 | 0709 | [To Lower Case](leetcode/0709_To_Lower_Case) | 🟢 Easy | [C++](leetcode/0709_To_Lower_Case/solution.cpp), [JavaScript](leetcode/0709_To_Lower_Case/solution.js) | `String` |
 | 0725 | [Split Linked List in Parts](leetcode/0725_Split_Linked_List_in_Parts) | 🟡 Medium | [C++](leetcode/0725_Split_Linked_List_in_Parts/solution.cpp) | `Linked List` |
 | 0728 | [Self Dividing Numbers](leetcode/0728_Self_Dividing_Numbers) | 🟢 Easy | [C++](leetcode/0728_Self_Dividing_Numbers/solution.cpp), [JavaScript](leetcode/0728_Self_Dividing_Numbers/solution.js) | `Math` |
+| 0739 | [Daily Temperatures](leetcode/0739_Daily_Temperatures) | 🟡 Medium | [C++](leetcode/0739_Daily_Temperatures/solution.cpp) | `Array`, `Stack`, `Monotonic Stack` |
 | 0744 | [Find Smallest Letter Greater Than Target](leetcode/0744_Find_Smallest_Letter_Greater_Than_Target) | 🟢 Easy | [JavaScript](leetcode/0744_Find_Smallest_Letter_Greater_Than_Target/solution.js) | `Array`, `Binary Search` |
 | 0771 | [Jewels and Stones](leetcode/0771_Jewels_and_Stones) | 🟢 Easy | [JavaScript](leetcode/0771_Jewels_and_Stones/solution.js) | `Hash Table`, `String` |
 | 0796 | [Rotate String](leetcode/0796_Rotate_String) | 🟢 Easy | [C++](leetcode/0796_Rotate_String/solution.cpp) | `String`, `String Matching` |
@@ -188,6 +192,8 @@
 | 1137 | [N-th Tribonacci Number](leetcode/1137_N-th_Tribonacci_Number) | 🟢 Easy | [C++](leetcode/1137_N-th_Tribonacci_Number/solution.cpp) | `Math`, `Dynamic Programming`, `Memoization` |
 | 1148 | [Article Views I](leetcode/1148_Article_Views_I) | 🟢 Easy | [MySQL](leetcode/1148_Article_Views_I/solution.sql) | `Database` |
 | 1189 | [Maximum Number of Balloons](leetcode/1189_Maximum_Number_of_Balloons) | 🟢 Easy | [C++](leetcode/1189_Maximum_Number_of_Balloons/solution.cpp), [JavaScript](leetcode/1189_Maximum_Number_of_Balloons/solution.js) | `Hash Table`, `String`, `Counting` |
+| 1190 | [Reverse Substrings Between Each Pair of Parentheses](leetcode/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses) | 🟡 Medium | [C++](leetcode/1190_Reverse_Substrings_Between_Each_Pair_of_Parentheses/solution.cpp) | `String`, `Stack`, `Bracket Sequences` |
+| 1193 | [Monthly Transactions I](leetcode/1193_Monthly_Transactions_I) | 🟡 Medium | [MySQL](leetcode/1193_Monthly_Transactions_I/solution.sql) | `Database` |
 | 1200 | [Minimum Absolute Difference](leetcode/1200_Minimum_Absolute_Difference) | 🟢 Easy | [JavaScript](leetcode/1200_Minimum_Absolute_Difference/solution.js) | `Array`, `Sorting` |
 | 1207 | [Unique Number of Occurrences](leetcode/1207_Unique_Number_of_Occurrences) | 🟢 Easy | [C++](leetcode/1207_Unique_Number_of_Occurrences/solution.cpp) | `Array`, `Hash Table` |
 | 1209 | [Remove All Adjacent Duplicates in String II](leetcode/1209_Remove_All_Adjacent_Duplicates_in_String_II) | 🟡 Medium | [C++](leetcode/1209_Remove_All_Adjacent_Duplicates_in_String_II/solution.cpp) | `String`, `Stack` |
@@ -210,6 +216,7 @@
 | 1351 | [Count Negative Numbers in a Sorted Matrix](leetcode/1351_Count_Negative_Numbers_in_a_Sorted_Matrix) | 🟢 Easy | [C++](leetcode/1351_Count_Negative_Numbers_in_a_Sorted_Matrix/solution.cpp), [JavaScript](leetcode/1351_Count_Negative_Numbers_in_a_Sorted_Matrix/solution.js) | `Array`, `Binary Search`, `Matrix` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](leetcode/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number) | 🟢 Easy | [C++](leetcode/1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number/solution.cpp) | `Array`, `Hash Table`, `Sorting` *(+1)* |
 | 1378 | [Replace Employee ID With The Unique Identifier](leetcode/1378_Replace_Employee_ID_With_The_Unique_Identifier) | 🟢 Easy | [MySQL](leetcode/1378_Replace_Employee_ID_With_The_Unique_Identifier/solution.sql) | `Database` |
+| 1386 | [Cinema Seat Allocation](leetcode/1386_Cinema_Seat_Allocation) | 🟡 Medium | [C++](leetcode/1386_Cinema_Seat_Allocation/solution.cpp) | `Array`, `Hash Table`, `Greedy` *(+1)* |
 | 1394 | [Find Lucky Integer in an Array](leetcode/1394_Find_Lucky_Integer_in_an_Array) | 🟢 Easy | [C++](leetcode/1394_Find_Lucky_Integer_in_an_Array/solution.cpp), [JavaScript](leetcode/1394_Find_Lucky_Integer_in_an_Array/solution.js) | `Array`, `Hash Table`, `Counting` |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](leetcode/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One) | 🟡 Medium | [C++](leetcode/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One/solution.cpp), [JavaScript](leetcode/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One/solution.js) | `String`, `Bit Manipulation`, `Simulation` |
 | 1408 | [String Matching in an Array](leetcode/1408_String_Matching_in_an_Array) | 🟢 Easy | [C++](leetcode/1408_String_Matching_in_an_Array/solution.cpp) | `Array`, `String`, `String Matching` |
@@ -241,6 +248,7 @@
 | 1636 | [Sort Array by Increasing Frequency](leetcode/1636_Sort_Array_by_Increasing_Frequency) | 🟢 Easy | [C++](leetcode/1636_Sort_Array_by_Increasing_Frequency/solution.cpp) | `Array`, `Hash Table`, `Sorting` |
 | 1637 | [Widest Vertical Area Between Two Points Containing No Points](leetcode/1637_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points) | 🟢 Easy | [C++](leetcode/1637_Widest_Vertical_Area_Between_Two_Points_Containing_No_Points/solution.cpp) | `Array`, `Sorting` |
 | 1652 | [Defuse the Bomb](leetcode/1652_Defuse_the_Bomb) | 🟢 Easy | [C++](leetcode/1652_Defuse_the_Bomb/solution.cpp) | `Array`, `Sliding Window` |
+| 1658 | [Minimum Operations to Reduce X to Zero](leetcode/1658_Minimum_Operations_to_Reduce_X_to_Zero) | 🟡 Medium | [C++](leetcode/1658_Minimum_Operations_to_Reduce_X_to_Zero/solution.cpp) | `Array`, `Hash Table`, `Binary Search` *(+2)* |
 | 1661 | [Average Time of Process per Machine](leetcode/1661_Average_Time_of_Process_per_Machine) | 🟢 Easy | [MySQL](leetcode/1661_Average_Time_of_Process_per_Machine/solution.sql) | `Database` |
 | 1662 | [Check If Two String Arrays are Equivalent](leetcode/1662_Check_If_Two_String_Arrays_are_Equivalent) | 🟢 Easy | [C++](leetcode/1662_Check_If_Two_String_Arrays_are_Equivalent/solution.cpp), [JavaScript](leetcode/1662_Check_If_Two_String_Arrays_are_Equivalent/solution.js) | `Array`, `String` |
 | 1669 | [Merge In Between Linked Lists](leetcode/1669_Merge_In_Between_Linked_Lists) | 🟡 Medium | [C++](leetcode/1669_Merge_In_Between_Linked_Lists/solution.cpp) | `Linked List` |
@@ -266,6 +274,7 @@
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](leetcode/1784_Check_if_Binary_String_Has_at_Most_One_Segment_of_Ones) | 🟢 Easy | [C++](leetcode/1784_Check_if_Binary_String_Has_at_Most_One_Segment_of_Ones/solution.cpp) | `String` |
 | 1790 | [Check if One String Swap Can Make Strings Equal](leetcode/1790_Check_if_One_String_Swap_Can_Make_Strings_Equal) | 🟢 Easy | [C++](leetcode/1790_Check_if_One_String_Swap_Can_Make_Strings_Equal/solution.cpp) | `Hash Table`, `String`, `Counting` |
 | 1791 | [Find Center of Star Graph](leetcode/1791_Find_Center_of_Star_Graph) | 🟢 Easy | [C++](leetcode/1791_Find_Center_of_Star_Graph/solution.cpp) | `Graph Theory` |
+| 1807 | [Evaluate the Bracket Pairs of a String](leetcode/1807_Evaluate_the_Bracket_Pairs_of_a_String) | 🟡 Medium | [C++](leetcode/1807_Evaluate_the_Bracket_Pairs_of_a_String/solution.cpp) | `Array`, `Hash Table`, `String` |
 | 1812 | [Determine Color of a Chessboard Square](leetcode/1812_Determine_Color_of_a_Chessboard_Square) | 🟢 Easy | [C++](leetcode/1812_Determine_Color_of_a_Chessboard_Square/solution.cpp) | `Math`, `String` |
 | 1816 | [Truncate Sentence](leetcode/1816_Truncate_Sentence) | 🟢 Easy | [C++](leetcode/1816_Truncate_Sentence/solution.cpp), [JavaScript](leetcode/1816_Truncate_Sentence/solution.js) | `Array`, `String` |
 | 1822 | [Sign of the Product of an Array](leetcode/1822_Sign_of_the_Product_of_an_Array) | 🟢 Easy | [C++](leetcode/1822_Sign_of_the_Product_of_an_Array/solution.cpp), [JavaScript](leetcode/1822_Sign_of_the_Product_of_an_Array/solution.js) | `Array`, `Math` |
@@ -280,6 +289,7 @@
 | 1920 | [Build Array from Permutation](leetcode/1920_Build_Array_from_Permutation) | 🟢 Easy | [C++](leetcode/1920_Build_Array_from_Permutation/solution.cpp), [JavaScript](leetcode/1920_Build_Array_from_Permutation/solution.js) | `Array`, `Simulation` |
 | 1929 | [Concatenation of Array](leetcode/1929_Concatenation_of_Array) | 🟢 Easy | [C++](leetcode/1929_Concatenation_of_Array/solution.cpp), [JavaScript](leetcode/1929_Concatenation_of_Array/solution.js) | `Array`, `Simulation` |
 | 1935 | [Maximum Number of Words You Can Type](leetcode/1935_Maximum_Number_of_Words_You_Can_Type) | 🟢 Easy | [C++](leetcode/1935_Maximum_Number_of_Words_You_Can_Type/solution.cpp) | `Hash Table`, `String` |
+| 1944 | [Number of Visible People in a Queue](leetcode/1944_Number_of_Visible_People_in_a_Queue) | 🔴 Hard | [C++](leetcode/1944_Number_of_Visible_People_in_a_Queue/solution.cpp) | `Array`, `Stack`, `Monotonic Stack` |
 | 1945 | [Sum of Digits of String After Convert](leetcode/1945_Sum_of_Digits_of_String_After_Convert) | 🟢 Easy | [C++](leetcode/1945_Sum_of_Digits_of_String_After_Convert/solution.cpp), [JavaScript](leetcode/1945_Sum_of_Digits_of_String_After_Convert/solution.js) | `String`, `Simulation` |
 | 1952 | [Three Divisors](leetcode/1952_Three_Divisors) | 🟢 Easy | [C++](leetcode/1952_Three_Divisors/solution.cpp), [JavaScript](leetcode/1952_Three_Divisors/solution.js) | `Math`, `Enumeration`, `Number Theory` *(+2)* |
 | 1967 | [Number of Strings That Appear as Substrings in Word](leetcode/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word) | 🟢 Easy | [C++](leetcode/1967_Number_of_Strings_That_Appear_as_Substrings_in_Word/solution.cpp) | `Array`, `String` |
@@ -291,9 +301,11 @@
 | 2011 | [Final Value of Variable After Performing Operations](leetcode/2011_Final_Value_of_Variable_After_Performing_Operations) | 🟢 Easy | [C++](leetcode/2011_Final_Value_of_Variable_After_Performing_Operations/solution.cpp), [JavaScript](leetcode/2011_Final_Value_of_Variable_After_Performing_Operations/solution.js) | `Array`, `String`, `Simulation` |
 | 2053 | [Kth Distinct String in an Array](leetcode/2053_Kth_Distinct_String_in_an_Array) | 🟢 Easy | [C++](leetcode/2053_Kth_Distinct_String_in_an_Array/solution.cpp), [JavaScript](leetcode/2053_Kth_Distinct_String_in_an_Array/solution.js) | `Array`, `Hash Table`, `String` *(+1)* |
 | 2057 | [Smallest Index With Equal Value](leetcode/2057_Smallest_Index_With_Equal_Value) | 🟢 Easy | [C++](leetcode/2057_Smallest_Index_With_Equal_Value/solution.cpp) | `Array` |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](leetcode/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points) | 🟡 Medium | [C++](leetcode/2058_Find_the_Minimum_and_Maximum_Number_of_Nodes_Between_Critical_Points/solution.cpp) | `Linked List` |
 | 2074 | [Reverse Nodes in Even Length Groups](leetcode/2074_Reverse_Nodes_in_Even_Length_Groups) | 🟡 Medium | [C++](leetcode/2074_Reverse_Nodes_in_Even_Length_Groups/solution.cpp) | `Linked List` |
 | 2078 | [Two Furthest Houses With Different Colors](leetcode/2078_Two_Furthest_Houses_With_Different_Colors) | 🟢 Easy | [C++](leetcode/2078_Two_Furthest_Houses_With_Different_Colors/solution.cpp) | `Array`, `Greedy` |
 | 2089 | [Find Target Indices After Sorting Array](leetcode/2089_Find_Target_Indices_After_Sorting_Array) | 🟢 Easy | [C++](leetcode/2089_Find_Target_Indices_After_Sorting_Array/solution.cpp) | `Array`, `Binary Search`, `Sorting` |
+| 2091 | [Removing Minimum and Maximum From Array](leetcode/2091_Removing_Minimum_and_Maximum_From_Array) | 🟡 Medium | [C++](leetcode/2091_Removing_Minimum_and_Maximum_From_Array/solution.cpp) | `Array`, `Greedy` |
 | 2095 | [Delete the Middle Node of a Linked List](leetcode/2095_Delete_the_Middle_Node_of_a_Linked_List) | 🟡 Medium | [C++](leetcode/2095_Delete_the_Middle_Node_of_a_Linked_List/solution.cpp) | `Linked List`, `Two Pointers` |
 | 2108 | [Find First Palindromic String in the Array](leetcode/2108_Find_First_Palindromic_String_in_the_Array) | 🟢 Easy | [C++](leetcode/2108_Find_First_Palindromic_String_in_the_Array/solution.cpp), [JavaScript](leetcode/2108_Find_First_Palindromic_String_in_the_Array/solution.js) | `Array`, `Two Pointers`, `String` |
 | 2109 | [Adding Spaces to a String](leetcode/2109_Adding_Spaces_to_a_String) | 🟡 Medium | [C++](leetcode/2109_Adding_Spaces_to_a_String/solution.cpp), [JavaScript](leetcode/2109_Adding_Spaces_to_a_String/solution.js) | `Array`, `Two Pointers`, `String` *(+1)* |
@@ -385,6 +397,7 @@
 | 3042 | [Count Prefix and Suffix Pairs I](leetcode/3042_Count_Prefix_and_Suffix_Pairs_I) | 🟢 Easy | [C++](leetcode/3042_Count_Prefix_and_Suffix_Pairs_I/solution.cpp) | `Array`, `String`, `Trie` *(+3)* |
 | 3046 | [Split the Array](leetcode/3046_Split_the_Array) | 🟢 Easy | [C++](leetcode/3046_Split_the_Array/solution.cpp) | `Array`, `Hash Table`, `Counting` |
 | 3065 | [Minimum Operations to Exceed Threshold Value I](leetcode/3065_Minimum_Operations_to_Exceed_Threshold_Value_I) | 🟢 Easy | [C++](leetcode/3065_Minimum_Operations_to_Exceed_Threshold_Value_I/solution.cpp) | `Array` |
+| 3069 | [Distribute Elements Into Two Arrays I](leetcode/3069_Distribute_Elements_Into_Two_Arrays_I) | 🟢 Easy | [C++](leetcode/3069_Distribute_Elements_Into_Two_Arrays_I/solution.cpp) | `Array`, `Two Pointers`, `Simulation` |
 | 3079 | [Find the Sum of Encrypted Integers](leetcode/3079_Find_the_Sum_of_Encrypted_Integers) | 🟢 Easy | [C++](leetcode/3079_Find_the_Sum_of_Encrypted_Integers/solution.cpp) | `Array`, `Math` |
 | 3090 | [Maximum Length Substring With Two Occurrences](leetcode/3090_Maximum_Length_Substring_With_Two_Occurrences) | 🟢 Easy | [C++](leetcode/3090_Maximum_Length_Substring_With_Two_Occurrences/solution.cpp) | `Hash Table`, `String`, `Sliding Window` |
 | 3099 | [Harshad Number](leetcode/3099_Harshad_Number) | 🟢 Easy | [C++](leetcode/3099_Harshad_Number/solution.cpp), [JavaScript](leetcode/3099_Harshad_Number/solution.js) | `Math` |
@@ -453,6 +466,8 @@
 | 3869 | [Count Fancy Numbers in a Range](leetcode/3869_Count_Fancy_Numbers_in_a_Range) | 🔴 Hard | [C++](leetcode/3869_Count_Fancy_Numbers_in_a_Range/solution.cpp) | `Math`, `Dynamic Programming` |
 | 3870 | [Count Commas in Range](leetcode/3870_Count_Commas_in_Range) | 🟢 Easy | [C++](leetcode/3870_Count_Commas_in_Range/solution.cpp) | `Math` |
 | 3871 | [Count Commas in Range II](leetcode/3871_Count_Commas_in_Range_II) | 🟡 Medium | [C++](leetcode/3871_Count_Commas_in_Range_II/solution.cpp) | `Math` |
+| 3875 | [Construct Uniform Parity Array I](leetcode/3875_Construct_Uniform_Parity_Array_I) | 🟢 Easy | [C++](leetcode/3875_Construct_Uniform_Parity_Array_I/solution.cpp) | `Array`, `Math` |
+| 3876 | [Construct Uniform Parity Array II](leetcode/3876_Construct_Uniform_Parity_Array_II) | 🟡 Medium | [C++](leetcode/3876_Construct_Uniform_Parity_Array_II/solution.cpp) | `Array`, `Math` |
 | 3880 | [Minimum Absolute Difference Between Two Values](leetcode/3880_Minimum_Absolute_Difference_Between_Two_Values) | 🟢 Easy | [C++](leetcode/3880_Minimum_Absolute_Difference_Between_Two_Values/solution.cpp) | `Array`, `Enumeration` |
 | 3884 | [First Matching Character From Both Ends](leetcode/3884_First_Matching_Character_From_Both_Ends) | 🟢 Easy | [C++](leetcode/3884_First_Matching_Character_From_Both_Ends/solution.cpp) | `Two Pointers`, `String` |
 | 3894 | [Traffic Signal Color](leetcode/3894_Traffic_Signal_Color) | 🟢 Easy | [C++](leetcode/3894_Traffic_Signal_Color/solution.cpp) | `Math`, `String`, `Simulation` |
@@ -475,3 +490,5 @@
 | 3959 | [Check Good Integer](leetcode/3959_Check_Good_Integer) | 🟢 Easy | [C++](leetcode/3959_Check_Good_Integer/solution.cpp) |  |
 | 3978 | [Unique Middle Element](leetcode/3978_Unique_Middle_Element) | 🟢 Easy | [C++](leetcode/3978_Unique_Middle_Element/solution.cpp) |  |
 | 3982 | [Sum of Integers with Maximum Digit Range](leetcode/3982_Sum_of_Integers_with_Maximum_Digit_Range) | 🟢 Easy | [C++](leetcode/3982_Sum_of_Integers_with_Maximum_Digit_Range/solution.cpp) |  |
+| 4034 | [Minimum Bishop Moves to Reach Target](leetcode/4034_Minimum_Bishop_Moves_to_Reach_Target) | 🟡 Medium | [C++](leetcode/4034_Minimum_Bishop_Moves_to_Reach_Target/solution.cpp) | `Array`, `Math` |
+| 4049 | [Count Values With Equally Spaced Occurrences II](leetcode/4049_Count_Values_With_Equally_Spaced_Occurrences_II) | 🟡 Medium | [C++](leetcode/4049_Count_Values_With_Equally_Spaced_Occurrences_II/solution.cpp) | `Array`, `Hash Table` |
