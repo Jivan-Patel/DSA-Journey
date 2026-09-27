@@ -1,4 +1,4 @@
-# 🏆 All Solved Codeforces Questions (8)
+# 🏆 All Solved Codeforces Questions (9)
 
 [⬅️ Back to Dashboard](README.md)
 
@@ -12,3 +12,4 @@
 | [266A Stones on the Table](codeforces/266A_Stones_on_the_Table) | [C++](codeforces/266A_Stones_on_the_Table/solution.cpp) |
 | [4A Watermelon](codeforces/4A_Watermelon) | [C++](codeforces/4A_Watermelon/solution.cpp) |
 | [71A Way Too Long Words](codeforces/71A_Way_Too_Long_Words) | [C++](codeforces/71A_Way_Too_Long_Words/solution.cpp) |
+| [96A Football](codeforces/96A_Football) | [C++](codeforces/96A_Football/solution.cpp) |

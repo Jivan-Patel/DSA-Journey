@@ -5,7 +5,7 @@
 ![Medium](https://img.shields.io/badge/Medium-143-F0A830?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-10-E15554?style=for-the-badge)
 ![Accuracy](https://img.shields.io/badge/Accuracy-82.7%25-blue?style=for-the-badge)
-![Codeforces Solved](https://img.shields.io/badge/Codeforces%20Solved-8-blue?style=for-the-badge&logo=codeforces)
+![Codeforces Solved](https://img.shields.io/badge/Codeforces%20Solved-9-blue?style=for-the-badge&logo=codeforces)
 
 Welcome to **DSA-Journey**! This repository documents my ongoing journey of solving LeetCode problems. It contains:
 - **Algorithm & Data Structure** solutions
