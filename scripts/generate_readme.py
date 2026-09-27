@@ -8,6 +8,7 @@ from datetime import datetime
 script_dir = os.path.dirname(os.path.abspath(__file__))
 repo_dir = os.path.abspath(os.path.join(script_dir, ".."))
 leetcode_dir = os.path.join(repo_dir, "leetcode")
+codeforces_dir = os.path.join(repo_dir, "codeforces")
 cache_file = os.path.join(repo_dir, "metadata_cache.json")
 
 url = "https://leetcode.com/graphql"
@@ -239,6 +240,29 @@ def main():
             'file_map': file_map
         })
         time.sleep(0.005)
+        
+    cf_solved_questions = []
+    if os.path.exists(codeforces_dir):
+        cf_folders = sorted([f for f in os.listdir(codeforces_dir) if os.path.isdir(os.path.join(codeforces_dir, f))])
+        for folder in cf_folders:
+            folder_path = os.path.join(codeforces_dir, folder)
+            solution_files = [f for f in os.listdir(folder_path) if os.path.isfile(os.path.join(folder_path, f))]
+            langs = []
+            file_map = {}
+            for sfile in sorted(solution_files):
+                ext = os.path.splitext(sfile)[1].lower()
+                lang_name = LANG_MAP.get(ext, ext.strip('.').upper())
+                file_rel_path = f"codeforces/{folder}/{sfile}"
+                file_map[lang_name] = file_rel_path
+                if lang_name not in langs:
+                    langs.append(lang_name)
+            
+            cf_solved_questions.append({
+                'folder': folder,
+                'title': folder.replace("_", " "),
+                'languages': langs,
+                'file_map': file_map
+            })
     
     save_cache(cache)
     
@@ -268,17 +292,44 @@ def main():
             topic_map[tname].append(q)
 
     # 1. Generate README.md
-    generate_readme_md(total_unique_questions, easy_count, medium_count, hard_count, lang_counts, topic_map, solved_questions, accuracy_stats)
+    generate_readme_md(total_unique_questions, easy_count, medium_count, hard_count, lang_counts, topic_map, solved_questions, accuracy_stats, cf_solved_questions)
     
     # 2. Generate ALL_SOLUTIONS.md
     generate_all_solutions_md(solved_questions)
 
     # 3. Generate TOPICS.md
     generate_topics_md(topic_map)
+    
+    # 4. Generate CODEFORCES_SOLUTIONS.md
+    generate_codeforces_solutions_md(cf_solved_questions)
 
-    print("Successfully generated README.md, ALL_SOLUTIONS.md, and TOPICS.md!")
+    print("Successfully generated README.md, ALL_SOLUTIONS.md, TOPICS.md, and CODEFORCES_SOLUTIONS.md!")
 
-def generate_readme_md(total, easy, medium, hard, lang_counts, topic_map, solved_questions, accuracy_stats):
+def generate_codeforces_solutions_md(cf_solved_questions):
+    path = os.path.join(repo_dir, "CODEFORCES_SOLUTIONS.md")
+    
+    content = f"""# 🏆 All Solved Codeforces Questions ({len(cf_solved_questions)})
+
+[⬅️ Back to Dashboard](README.md)
+
+| Problem Name | Solutions |
+| :--- | :--- |
+"""
+    for q in cf_solved_questions:
+        repo_folder_url = f"codeforces/{q['folder']}"
+        title_link = f"[{q['title']}]({repo_folder_url})"
+        
+        sol_links = []
+        for lang_name, rel_path in q['file_map'].items():
+            sol_links.append(f"[{lang_name}]({rel_path})")
+        sol_str = ", ".join(sol_links)
+        
+        content += f"| {title_link} | {sol_str} |\n"
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(content)
+
+def generate_readme_md(total, easy, medium, hard, lang_counts, topic_map, solved_questions, accuracy_stats, cf_solved_questions):
     readme_path = os.path.join(repo_dir, "README.md")
     
     easy_pct = (easy / total * 100) if total else 0
@@ -298,6 +349,7 @@ def generate_readme_md(total, easy, medium, hard, lang_counts, topic_map, solved
 ![Medium](https://img.shields.io/badge/Medium-{medium}-F0A830?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-{hard}-E15554?style=for-the-badge)
 {acc_badge}
+![Codeforces Solved](https://img.shields.io/badge/Codeforces%20Solved-{len(cf_solved_questions)}-blue?style=for-the-badge&logo=codeforces)
 
 Welcome to **DSA-Journey**! This repository documents my ongoing journey of solving LeetCode problems. It contains:
 - **Algorithm & Data Structure** solutions
@@ -360,6 +412,7 @@ Welcome to **DSA-Journey**! This repository documents my ongoing journey of solv
 
 - \U0001F4D6 [**Browse All Solved Questions Catalog (`LEETCODE_SOLUTIONS.md`)**](LEETCODE_SOLUTIONS.md) - Complete numerical index of all solved problems.
 - \U0001F3F7 [**Browse Questions by Topic (`LEETCODE_TOPICS.md`)**](LEETCODE_TOPICS.md) - Categorized problem sets by topic tags (Array, Dynamic Programming, Database, etc.).
+- 🏆 [**Browse Codeforces Solutions (`CODEFORCES_SOLUTIONS.md`)**](CODEFORCES_SOLUTIONS.md) - Complete list of solved Codeforces problems.
 
 ---
 

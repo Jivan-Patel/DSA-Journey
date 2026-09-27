@@ -5,6 +5,7 @@
 ![Medium](https://img.shields.io/badge/Medium-143-F0A830?style=for-the-badge)
 ![Hard](https://img.shields.io/badge/Hard-10-E15554?style=for-the-badge)
 ![Accuracy](https://img.shields.io/badge/Accuracy-82.7%25-blue?style=for-the-badge)
+![Codeforces Solved](https://img.shields.io/badge/Codeforces%20Solved-8-blue?style=for-the-badge&logo=codeforces)
 
 Welcome to **DSA-Journey**! This repository documents my ongoing journey of solving LeetCode problems. It contains:
 - **Algorithm & Data Structure** solutions
@@ -60,6 +61,7 @@ Welcome to **DSA-Journey**! This repository documents my ongoing journey of solv
 
 - 📖 [**Browse All Solved Questions Catalog (`LEETCODE_SOLUTIONS.md`)**](LEETCODE_SOLUTIONS.md) - Complete numerical index of all solved problems.
 - 🏷 [**Browse Questions by Topic (`LEETCODE_TOPICS.md`)**](LEETCODE_TOPICS.md) - Categorized problem sets by topic tags (Array, Dynamic Programming, Database, etc.).
+- 🏆 [**Browse Codeforces Solutions (`CODEFORCES_SOLUTIONS.md`)**](CODEFORCES_SOLUTIONS.md) - Complete list of solved Codeforces problems.
 
 ---
 
