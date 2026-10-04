@@ -19,7 +19,7 @@
 | [**Combinatorics**](#combinatorics) | 2 | 1 | 1 | 0 |
 | [**Counting**](#counting) | 30 | 23 | 7 | 0 |
 | [**Counting Sort**](#counting-sort) | 3 | 2 | 1 | 0 |
-| [**Database**](#database) | 30 | 24 | 6 | 0 |
+| [**Database**](#database) | 31 | 24 | 7 | 0 |
 | [**Depth-First Search**](#depth-first-search) | 1 | 0 | 1 | 0 |
 | [**Design**](#design) | 1 | 0 | 1 | 0 |
 | [**Divide and Conquer**](#divide-and-conquer) | 8 | 3 | 3 | 2 |
@@ -543,7 +543,7 @@
 
 ---
 
-### 📌 Database (30)
+### 📌 Database (31)
 
 | # | Problem Title | Difficulty | Solutions |
 | :---: | :--- | :---: | :--- |
@@ -575,6 +575,7 @@
 | 1683 | [Invalid Tweets](leetcode/1683_Invalid_Tweets) | 🟢 Easy | [MySQL](leetcode/1683_Invalid_Tweets/solution.sql) |
 | 1729 | [Find Followers Count](leetcode/1729_Find_Followers_Count) | 🟢 Easy | [MySQL](leetcode/1729_Find_Followers_Count/solution.sql) |
 | 1757 | [Recyclable and Low Fat Products](leetcode/1757_Recyclable_and_Low_Fat_Products) | 🟢 Easy | [MySQL](leetcode/1757_Recyclable_and_Low_Fat_Products/solution.sql) |
+| 1934 | [Confirmation Rate](leetcode/1934_Confirmation_Rate) | 🟡 Medium | [MySQL](leetcode/1934_Confirmation_Rate/solution.sql) |
 | 1978 | [Employees Whose Manager Left the Company](leetcode/1978_Employees_Whose_Manager_Left_the_Company) | 🟢 Easy | [MySQL](leetcode/1978_Employees_Whose_Manager_Left_the_Company/solution.sql) |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](leetcode/2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher) | 🟢 Easy | [MySQL](leetcode/2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher/solution.sql) |
 

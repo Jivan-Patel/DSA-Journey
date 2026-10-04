@@ -1,4 +1,4 @@
-# 📚 All Solved LeetCode Questions (488)
+# 📚 All Solved LeetCode Questions (489)
 
 [🇦 Back to Dashboard](README.md) | [View Questions by Topic 🇧](LEETCODE_TOPICS.md)
 
@@ -288,6 +288,7 @@
 | 1910 | [Remove All Occurrences of a Substring](leetcode/1910_Remove_All_Occurrences_of_a_Substring) | 🟡 Medium | [C++](leetcode/1910_Remove_All_Occurrences_of_a_Substring/solution.cpp) | `String`, `Stack`, `Simulation` |
 | 1920 | [Build Array from Permutation](leetcode/1920_Build_Array_from_Permutation) | 🟢 Easy | [C++](leetcode/1920_Build_Array_from_Permutation/solution.cpp), [JavaScript](leetcode/1920_Build_Array_from_Permutation/solution.js) | `Array`, `Simulation` |
 | 1929 | [Concatenation of Array](leetcode/1929_Concatenation_of_Array) | 🟢 Easy | [C++](leetcode/1929_Concatenation_of_Array/solution.cpp), [JavaScript](leetcode/1929_Concatenation_of_Array/solution.js) | `Array`, `Simulation` |
+| 1934 | [Confirmation Rate](leetcode/1934_Confirmation_Rate) | 🟡 Medium | [MySQL](leetcode/1934_Confirmation_Rate/solution.sql) | `Database` |
 | 1935 | [Maximum Number of Words You Can Type](leetcode/1935_Maximum_Number_of_Words_You_Can_Type) | 🟢 Easy | [C++](leetcode/1935_Maximum_Number_of_Words_You_Can_Type/solution.cpp) | `Hash Table`, `String` |
 | 1944 | [Number of Visible People in a Queue](leetcode/1944_Number_of_Visible_People_in_a_Queue) | 🔴 Hard | [C++](leetcode/1944_Number_of_Visible_People_in_a_Queue/solution.cpp) | `Array`, `Stack`, `Monotonic Stack` |
 | 1945 | [Sum of Digits of String After Convert](leetcode/1945_Sum_of_Digits_of_String_After_Convert) | 🟢 Easy | [C++](leetcode/1945_Sum_of_Digits_of_String_After_Convert/solution.cpp), [JavaScript](leetcode/1945_Sum_of_Digits_of_String_After_Convert/solution.js) | `String`, `Simulation` |
